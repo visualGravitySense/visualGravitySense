@@ -1,6 +1,6 @@
 ![Banner](img/banner-test.png)
 
-## Hi there 👋 I am Dmitry Gornakov
+## Hi there 👋 I am Dmitri Gornakov
 
 As a Creative Technologist, I specialize in designing and developing both the front-end and back-end of digital products. My role bridges creativity and technology, allowing me to craft user-centric interfaces while ensuring seamless functionality and performance behind the scenes. I blend UI/UX design with coding expertise to create innovative, visually engaging, and technically robust solutions.
 
