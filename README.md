@@ -13,6 +13,7 @@ As a Creative Technologist, I specialize in designing and developing both the fr
 | 🐍 **Back-End: Python**                    | 🗓️ **Upcoming Events**                   | 💼 **Entrepreneurship**                 | 📋 **Operational Efficiency**           |
 | 🛠️ **Product Design**                     |                                          |                                         | 🧠 **Strategic Planning**               |
 
+### Programming languages ​​and tools
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
