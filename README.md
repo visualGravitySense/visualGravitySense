@@ -7,11 +7,11 @@ As a <span style="color: #ff69b4;">**Creative**</span> <span style="color: #8a2b
 
 | **Tech & Design**                          | **Creative & Strategic**                 | **Crowd Funding**                       | **Management**                          |
 |--------------------------------------------|------------------------------------------|-----------------------------------------|-----------------------------------------|
-| 🔒 **Cybersecurity**                       | 🎨 **UI/UX Design**                      | 🌐 **Crowd Funding Platforms**          | 📊 **Project Management**               |
-| 🤖 **AI Projects**                         | 🎯 **Art Direction**                     | 💸 **Investment Strategies**            | 📈 **Business Development**             |
-| 💻 **Front-End: Vue, React**               | 📢 **Media and PR**                      | 🎉 **Campaign Planning**                | 🗂️ **Team Coordination**                |
-| 🐍 **Back-End: Python**                    | 🗓️ **Upcoming Events**                   | 💼 **Entrepreneurship**                 | 📋 **Operational Efficiency**           |
-| 🛠️ **Product Design**                     |                                          |                                         | 🧠 **Strategic Planning**               |
+| 💻 **Front-End: Vue, React**                          | 🎨 **UI/UX Design**                      | 🌐 **Crowd Funding Platforms**          | 📊 **Project Management**               |
+| 🐍 **Back-End: Python**                       | 🎯 **Art Direction**                     | 💸 **Investment Strategies**            | 📈 **Business Development**             |
+| 🛠️ **Product Design**             | 📢 **Media and PR**                      | 🎉 **Campaign Planning**                | 🗂️ **Team Coordination**                |
+|                      | 🗓️ **Upcoming Events**                   | 💼 **Entrepreneurship**                 | 📋 **Operational Efficiency**           |
+|                      |                                          |                                         | 🧠 **Strategic Planning**               |
 
 ### 💻 Programming languages ​​and tools
 
