@@ -2,7 +2,7 @@
 
 ## 👋 I’m **passionate about design and development**
 
-As a <span style="color: #ff69b4;">**Creative**</span> <span style="color: #8a2be2;">**Technologist**</span>, I specialize in <span style="font-size: 24px;">designing</span> and style="font-size: 24px;">developing</span> both the front-end and back-end of digital products. My role bridges creativity and technology, allowing me to craft user-centric interfaces while ensuring seamless functionality and performance behind the scenes. I blend UI/UX design with coding expertise to create innovative, visually engaging, and technically robust solutions.
+As a <span style="color: #ff69b4;">**Creative**</span> <span style="color: #8a2be2;">**Technologist**</span>, I specialize in <span style="font-size: 24px;">designing</span> and <span style="font-size: 24px;">developing</span> both the front-end and back-end of digital products. My role bridges creativity and technology, allowing me to craft user-centric interfaces while ensuring seamless functionality and performance behind the scenes. I blend UI/UX design with coding expertise to create innovative, visually engaging, and technically robust solutions.
 
 
 | **Tech & Design**                          | **Creative & Strategic**                 | **Crowd Funding**                       | **Management**                          |
@@ -33,6 +33,16 @@ As a <span style="color: #ff69b4;">**Creative**</span> <span style="color: #8a2b
   <img src="https://img.shields.io/badge/Runway_ML-FF4C29?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAG0lEQVR42mJ8+/YpFxcXIyMjAwP/AAZLgcLtABFVVAAAAAElFTkSuQmCC" alt="Runway ML"/>
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
 </div>
+
+
+## My Achievements and Development
+
+[![Portfolio Website](https://img.shields.io/badge/Portfolio-Website-orange)](https://bisonwise-bizonwise.up.railway.app/) 
+![100 Days of Code](https://img.shields.io/badge/Challenge-100%20Days%20of%20Code-blue)  
+![React JS Course](https://img.shields.io/badge/Course-React%20JS-blueviolet)
+
+[![Udemy Course](https://img.shields.io/badge/Udemy-React%20Complete%20Guide-ff69b4)](https://www.udemy.com/course-dashboard-redirect/?course_id=2889506) [![Udemy Course](https://img.shields.io/badge/Udemy-JavaScript%20Complete%20Guide-yellow)](https://www.udemy.com/course-dashboard-redirect/?course_id=2699786) [![Udemy Course](https://img.shields.io/badge/Udemy-HTML%20%26%20CSS%20for%20Beginners-red)](https://www.udemy.com/course-dashboard-redirect/?course_id=1993476) [![Udemy Course](https://img.shields.io/badge/Udemy-Understanding%20TypeScript-lightgrey)](https://www.udemy.com/course-dashboard-redirect/?course_id=2088396)
+
 
 <!--
 **visualGravitySense/visualGravitySense** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
