@@ -2,7 +2,7 @@
 
 ## 👋 I’m **passionate about design and development**
 
-As a Creative Technologist, I specialize in designing and developing both the front-end and back-end of digital products. My role bridges creativity and technology, allowing me to craft user-centric interfaces while ensuring seamless functionality and performance behind the scenes. I blend UI/UX design with coding expertise to create innovative, visually engaging, and technically robust solutions.
+As a <span style="color: #ff69b4;">**Creative**</span> <span style="color: #8a2be2;">**Technologist**</span>, I specialize in <span style="font-size: 24px;">designing</span> and style="font-size: 24px;">developing</span> both the front-end and back-end of digital products. My role bridges creativity and technology, allowing me to craft user-centric interfaces while ensuring seamless functionality and performance behind the scenes. I blend UI/UX design with coding expertise to create innovative, visually engaging, and technically robust solutions.
 
 
 | **Tech & Design**                          | **Creative & Strategic**                 | **Crowd Funding**                       | **Management**                          |
