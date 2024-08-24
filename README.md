@@ -15,7 +15,7 @@ As a <span style="color: #ff69b4;">**Creative**</span> <span style="color: #8a2b
 
 ### 💻 Programming languages ​​and tools
 
-<div align="center">
+<div align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
@@ -41,7 +41,8 @@ As a <span style="color: #ff69b4;">**Creative**</span> <span style="color: #8a2b
 ![100 Days of Code](https://img.shields.io/badge/Challenge-100%20Days%20of%20Code-blue)  
 ![React JS Course](https://img.shields.io/badge/Course-React%20JS-blueviolet)
 
-[![Udemy Course](https://img.shields.io/badge/Udemy-React%20Complete%20Guide-ff69b4)](https://www.udemy.com/course-dashboard-redirect/?course_id=2889506) [![Udemy Course](https://img.shields.io/badge/Udemy-JavaScript%20Complete%20Guide-yellow)](https://www.udemy.com/course-dashboard-redirect/?course_id=2699786) [![Udemy Course](https://img.shields.io/badge/Udemy-HTML%20%26%20CSS%20for%20Beginners-red)](https://www.udemy.com/course-dashboard-redirect/?course_id=1993476) [![Udemy Course](https://img.shields.io/badge/Udemy-Understanding%20TypeScript-lightgrey)](https://www.udemy.com/course-dashboard-redirect/?course_id=2088396)
+[![Udemy Course](https://img.shields.io/badge/Udemy-Machine%20Learning-ff69b4)](https://www.udemy.com/course-dashboard-redirect/?course_id=2889506) [![Udemy Course](https://img.shields.io/badge/Udemy-Python%20data%20parsing%20and%20analys-yellow)](https://www.udemy.com/course-dashboard-redirect/?course_id=2699786) [![Udemy Course](https://img.shields.io/badge/Udemy-Python%20Django%20service%20scraping-red)](https://www.udemy.com/course-dashboard-redirect/?course_id=1993476) [![Udemy Course](https://img.shields.io/badge/Udemy-Python%20Web%20Scraping-lightgrey)](https://www.udemy.com/course-dashboard-redirect/?course_id=2088396)
+
 
 
 <!--
