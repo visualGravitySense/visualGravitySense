@@ -35,7 +35,7 @@ As a <span style="color: #ff69b4;">**Creative**</span> <span style="color: #8a2b
 </div>
 
 
-## My Achievements and Development
+## ⚜️ My Achievements and Development
 
 [![Portfolio Website](https://img.shields.io/badge/Portfolio-Website-orange)](https://bisonwise-bizonwise.up.railway.app/) 
 ![100 Days of Code](https://img.shields.io/badge/Challenge-100%20Days%20of%20Code-blue)  
@@ -44,6 +44,18 @@ As a <span style="color: #ff69b4;">**Creative**</span> <span style="color: #8a2b
 [![Udemy Course](https://img.shields.io/badge/Udemy-Machine%20Learning-ff69b4)](https://www.udemy.com/course-dashboard-redirect/?course_id=2889506) [![Udemy Course](https://img.shields.io/badge/Udemy-Python%20data%20parsing%20and%20analys-yellow)](https://www.udemy.com/course-dashboard-redirect/?course_id=2699786) [![Udemy Course](https://img.shields.io/badge/Udemy-Python%20Django%20service%20scraping-red)](https://www.udemy.com/course-dashboard-redirect/?course_id=1993476) [![Udemy Course](https://img.shields.io/badge/Udemy-Python%20Web%20Scraping-lightgrey)](https://www.udemy.com/course-dashboard-redirect/?course_id=2088396)
 
 
+## 🏆 My Stats
+<div>
+  
+  <a href="https://github.com/visualGravitySense">
+  <img src="https://github-readme-stats.vercel.app/api?username=visualGravitySense&show_icons=true&locale=en&langs_count=20&count_private=true&theme=radical&layout=compact&hide_border=false&bg_color=000000&border_color=808080" width=49% height=100%/>
+  </a>
+
+  <a href="https://github.com/visualGravitySense">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=visualGravitySense&theme=neon-dark&date_format=M%20j%5B%2C%20Y%5D" alt="visualGravitySense" width=49% height=100%/>
+  </a>
+
+</div>
 
 <!--
 **visualGravitySense/visualGravitySense** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
