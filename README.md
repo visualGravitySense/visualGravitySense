@@ -37,6 +37,14 @@ As a <span style="color: #ff69b4;">**Creative**</span> <span style="color: #8a2b
 
 ## ⚜️ My Achievements and Development
 
+<div align=center>
+   <a href="https://github.com/visualGravitySense">
+   <img src="https://github-profile-trophy.vercel.app/?username=visualGravitySense&no-bg=true&theme=onedark&no-frame=true&title=Commits,MultiLanguage,PullRequest,Repositories,Followers,Stars&column=6" alt="zumrudu-anka" width=200% height=100%/>
+   </a>
+</div>
+
+<br>
+
 [![Portfolio Website](https://img.shields.io/badge/Portfolio-Website-orange)](https://bisonwise-bizonwise.up.railway.app/) 
 ![100 Days of Code](https://img.shields.io/badge/Challenge-100%20Days%20of%20Code-blue)  
 ![React JS Course](https://img.shields.io/badge/Course-React%20JS-blueviolet)
@@ -59,13 +67,7 @@ As a <span style="color: #ff69b4;">**Creative**</span> <span style="color: #8a2b
 
 <br/>
 
-<div align=center>
-   <a href="https://github.com/visualGravitySense">
-   <img src="https://github-profile-trophy.vercel.app/?username=visualGravitySense&no-bg=true&theme=onedark&no-frame=true&title=Commits,MultiLanguage,PullRequest,Repositories,Followers,Stars&column=6" alt="zumrudu-anka" width=200% height=100%/>
-   </a>
-</div>
 
-<br>
 
 <div align=center>
    <a href="https://github.com/visualGravitySense">
