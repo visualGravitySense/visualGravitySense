@@ -57,6 +57,23 @@ As a <span style="color: #ff69b4;">**Creative**</span> <span style="color: #8a2b
 
 </div>
 
+<br/>
+
+<div align=center>
+   <a href="https://github.com/visualGravitySense">
+   <img src="https://github-profile-trophy.vercel.app/?username=visualGravitySense&no-bg=true&theme=onedark&no-frame=true&title=Commits,MultiLanguage,PullRequest,Repositories,Followers,Stars&column=6" alt="zumrudu-anka" width=200% height=100%/>
+   </a>
+</div>
+
+<br>
+
+<div align=center>
+   <a href="https://github.com/visualGravitySense">
+   <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=visualGravitySense&theme=redical&hide_border=true" />
+   </a>
+</div>
+
+
 <!--
 **visualGravitySense/visualGravitySense** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
