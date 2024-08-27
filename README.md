@@ -75,6 +75,13 @@ As a <span style="color: #ff69b4;">**Creative**</span> <span style="color: #8a2b
    </a>
 </div>
 
+# 📱 UI/UX Projects
+Here you will find links and descriptions of my best projects in UI/UX design, including screenshots and case studies.
+#### Website: Coolbet Open
+<p align="left">
+  <img src="img/co-1.png" alt="Coolbet Open" width="400">
+</p>
+A creative project showcasing a unique visual identity for the Coolbet Open poker tournament. This project was originally published on Behance (https://www.behance.net/gallery/135803957/Coolbet-Open) and features a vibrant and dynamic design that captures the spirit of competition and excitement of the Coolbet Open poker tournament. The visual elements include logos, typography, color schemes, and other branded materials designed to enhance the tournament's aesthetic appeal. Explore the project to see how these elements come together to create a memorable experience for participants and viewers alike.
 
 <!--
 **visualGravitySense/visualGravitySense** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
