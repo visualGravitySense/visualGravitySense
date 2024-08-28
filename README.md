@@ -81,6 +81,20 @@ Here you will find links and descriptions of my best projects in UI/UX design, i
 
 A creative project showcasing a unique visual identity for the Coolbet Open poker tournament. This project was originally published on Behance (https://www.behance.net/gallery/135803957/Coolbet-Open) and features a vibrant and dynamic design that captures the spirit of competition and excitement of the Coolbet Open poker tournament. The visual elements include logos, typography, color schemes, and other branded materials designed to enhance the tournament's aesthetic appeal. Explore the project to see how these elements come together to create a memorable experience for participants and viewers alike.
 
+# 📺 Front-End Projects
+Here you will find links and descriptions of my best projects in Front-End development, including screenshots and case studies.
+#### Website: Viktorija Driving School
+
+This repository hosts the Viktorija Driving School website, a comprehensive web platform designed to provide detailed information about driving courses, instructors, and services. It offers features like easy online purchase of gift certificates, a welcoming homepage, an "About Us" section, service descriptions, a FAQ section, and testimonials from past students, ensuring a user-friendly experience for potential students https://github.com/visualGravitySense/car2
+
+Key Features
+- Informative homepage with key details about the driving school
+- Interactive gift certificate purchasing feature
+- Detailed service descriptions and pricing information
+- Instructor profiles and school mission in the "About Us" section
+- Contact form and FAQ for inquiries and common questions
+- Testimonials from past students highlighting the quality of instruction
+
 <!--
 **visualGravitySense/visualGravitySense** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
