@@ -95,6 +95,12 @@ Key Features
 - Contact form and FAQ for inquiries and common questions
 - Testimonials from past students highlighting the quality of instruction
 
+# 🤖 Back-End Projects
+Here you will find links and descriptions of my best projects in UI/UX Back-End.
+#### Website: Coolbet Open
+
+This project is a Telegram bot for conducting quizzes and interactive courses on UX/UI design. The bot provides users with educational tasks, tracks their progress, and stores data in a MongoDB database. It also supports paid courses for advanced users. https://github.com/visualGravitySense/bisonwise
+
 <!--
 **visualGravitySense/visualGravitySense** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
