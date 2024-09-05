@@ -32,6 +32,8 @@ As a <span style="color: #ff69b4;">**Creative**</span> <span style="color: #8a2b
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+
 
   <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
 
@@ -90,9 +92,20 @@ As a <span style="color: #ff69b4;">**Creative**</span> <span style="color: #8a2b
 
 # 📱 UI/UX Projects
 Here you will find links and descriptions of my best projects in UI/UX design, including screenshots and case studies.
-#### Website: Coolbet Open
+#### Website: Driving School 
+This is a modern, multi-language website for the "Victoria" driving school, developed using Nuxt 3 and Vue.js with i18n support. The design incorporates the latest 2024 web design trends, including dark mode, minimalism, parallax scrolling, and micro-interactions. https://github.com/visualGravitySense/viktorija4
 
-A creative project showcasing a unique visual identity for the Coolbet Open poker tournament. This project was originally published on Behance (https://www.behance.net/gallery/135803957/Coolbet-Open) and features a vibrant and dynamic design that captures the spirit of competition and excitement of the Coolbet Open poker tournament. The visual elements include logos, typography, color schemes, and other branded materials designed to enhance the tournament's aesthetic appeal. Explore the project to see how these elements come together to create a memorable experience for participants and viewers alike.
+Features:
+Multi-language support (i18n): English and Russian.
+Dark Mode: Toggle between light and dark themes.
+Responsive Design: Optimized for all devices (desktop, tablet, mobile).
+Parallax Scrolling: Engaging, dynamic background effects.
+Modern UI Elements: Clean typography, 3D elements, and micro-interactions.
+Accessibility: Inclusive design for all users.
+Technologies:
+Nuxt 3 (Vue.js)
+Vue-i18n for multi-language support
+HTML5, CSS3 with scoped styling
 
 # 📺 Front-End Projects
 Here you will find links and descriptions of my best projects in Front-End development, including screenshots and case studies.
