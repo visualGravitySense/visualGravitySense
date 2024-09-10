@@ -1,8 +1,8 @@
 ![Banner](img/banner-test.png)
 
-## 👋 I’m **passionate about design and development**
+## 👋 I’m **Anti Software Engineer**
 
-As a <span style="color: #ff69b4;">**Creative**</span> <span style="color: #8a2be2;">**Technologist**</span>, I specialize in <span style="font-size: 24px;">designing</span> and <span style="font-size: 24px;">developing</span> both the front-end and back-end of digital products. My role bridges creativity and technology, allowing me to craft user-centric interfaces while ensuring seamless functionality and performance behind the scenes. I blend UI/UX design with coding expertise to create innovative, visually engaging, and technically robust solutions.
+I defy conventional development by crafting bold, unconventional digital experiences. My approach fuses dynamic UI/UX design with the power of front-end technologies like Vue.js and React, while my back-end expertise in Python ensures functionality that disrupts the norm. I don’t just build software; I challenge the standard ways it’s created, delivering interfaces and systems that are as striking as they are effective.
 
 
 | **Tech & Design**                          | **Creative & Strategic**                 | **Crowd Funding**                       | **Management**                          |
