@@ -68,10 +68,8 @@ I defy conventional development by crafting bold, unconventional digital experie
 
 
 ## 🏆 My Stats
-<div align=center>
+<div>
   
-  
-
   <a href="https://github.com/visualGravitySense">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=visualGravitySense&theme=neon-dark&date_format=M%20j%5B%2C%20Y%5D" alt="visualGravitySense" width=49% height=100%/>
   </a>
