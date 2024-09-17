@@ -109,17 +109,47 @@ HTML5, CSS3 with scoped styling
 
 # 📺 Front-End Projects
 Here you will find links and descriptions of my best projects in Front-End development, including screenshots and case studies.
-#### Website: Viktorija Driving School
 
-This repository hosts the Viktorija Driving School website, a comprehensive web platform designed to provide detailed information about driving courses, instructors, and services. It offers features like easy online purchase of gift certificates, a welcoming homepage, an "About Us" section, service descriptions, a FAQ section, and testimonials from past students, ensuring a user-friendly experience for potential students https://github.com/visualGravitySense/car2
+## Cryptocurrency Dashboard
 
-Key Features
-- Informative homepage with key details about the driving school
-- Interactive gift certificate purchasing feature
-- Detailed service descriptions and pricing information
-- Instructor profiles and school mission in the "About Us" section
-- Contact form and FAQ for inquiries and common questions
-- Testimonials from past students highlighting the quality of instruction
+**Cryptocurrency Dashboard** is a front-end application built using **React**, **Vite**, and **Bootstrap**, designed to display up-to-date cryptocurrency data using the [CoinPaprika](https://coinpaprika.com/) API.
+
+### 📚 Technologies:
+- **React** — for building the UI and managing component states.
+- **Vite** — for fast build and development.
+- **Bootstrap** — for styling and responsive layout.
+- **CoinPaprika API** — for fetching cryptocurrency data such as current prices, symbols, and rankings.
+
+### 📈 Key Features:
+- View a list of cryptocurrencies with the ability to sort by various parameters (symbol, name, rank).
+- Search functionality to quickly find a specific cryptocurrency.
+- Display detailed information for each cryptocurrency.
+
+### 🚀 Installation and Setup:
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/visualGravitySense/crypto-data.git
+   ```
+2. Install dependencies:
+   ```bash
+   npm install
+   ```
+3. Run the project:
+   ```bash
+   npm run dev
+   ```
+
+### 🔗 API:
+CoinPaprika API is used to fetch cryptocurrency data. Full API documentation can be found [here](https://api.coinpaprika.com/).
+
+### 🖥️ Screenshots:
+(Add screenshots of your application here)
+
+### 🔄 Future Plans:
+- Add charts to visualize cryptocurrency price changes.
+- Implement dark mode for better user experience.
+- Expand the details available for each coin.
+
 
 # 🤖 Back-End Projects
 Here you will find links and descriptions of my best projects in UI/UX Back-End.
