@@ -114,6 +114,8 @@ Here you will find links and descriptions of my best projects in Front-End devel
 
 **Cryptocurrency Dashboard** is a front-end application built using **React**, **Vite**, and **Bootstrap**, designed to display up-to-date cryptocurrency data using the [CoinPaprika](https://coinpaprika.com/) API.
 
+[https://github.com/visualGravitySense/crypto-data](https://github.com/visualGravitySense/crypto-data)
+
 ### 📚 Technologies:
 - **React** — for building the UI and managing component states.
 - **Vite** — for fast build and development.
