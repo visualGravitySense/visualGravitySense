@@ -127,20 +127,6 @@ Here you will find links and descriptions of my best projects in Front-End devel
 - Search functionality to quickly find a specific cryptocurrency.
 - Display detailed information for each cryptocurrency.
 
-### 🚀 Installation and Setup:
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/visualGravitySense/crypto-data.git
-   ```
-2. Install dependencies:
-   ```bash
-   npm install
-   ```
-3. Run the project:
-   ```bash
-   npm run dev
-   ```
-
 ### 🔗 API:
 CoinPaprika API is used to fetch cryptocurrency data. Full API documentation can be found [here](https://api.coinpaprika.com/).
 
