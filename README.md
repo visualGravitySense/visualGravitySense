@@ -84,11 +84,7 @@ I defy conventional development by crafting bold, unconventional digital experie
 
 
 
-<div align=center>
-   <a href="https://github.com/visualGravitySense">
-   <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=visualGravitySense&theme=redical&hide_border=true" />
-   </a>
-</div>
+
 
 # 📱 UI/UX Projects
 Here you will find links and descriptions of my best projects in UI/UX design, including screenshots and case studies.
