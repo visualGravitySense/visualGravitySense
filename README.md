@@ -50,14 +50,6 @@ I defy conventional development by crafting bold, unconventional digital experie
 </div>
 
 
-## ⚜️ My Achievements and Development
-
-<div align=center>
-   <a href="https://github.com/visualGravitySense">
-   <img src="https://github-profile-trophy.vercel.app/?username=visualGravitySense&no-bg=true&theme=onedark&no-frame=true&title=Commits,MultiLanguage,PullRequest,Repositories,Followers,Stars&column=6" alt="zumrudu-anka" width=200% height=100%/>
-   </a>
-</div>
-
 <br>
 
 [![Portfolio Website](https://img.shields.io/badge/Portfolio-Website-orange)](https://bisonwise-bizonwise.up.railway.app/) 
@@ -67,8 +59,7 @@ I defy conventional development by crafting bold, unconventional digital experie
 [![Udemy Course](https://img.shields.io/badge/Udemy-Machine%20Learning-ff69b4)](https://www.udemy.com/course-dashboard-redirect/?course_id=2889506) [![Udemy Course](https://img.shields.io/badge/Udemy-Python%20data%20parsing%20and%20analys-yellow)](https://www.udemy.com/course-dashboard-redirect/?course_id=2699786) [![Udemy Course](https://img.shields.io/badge/Udemy-Python%20Django%20service%20scraping-red)](https://www.udemy.com/course-dashboard-redirect/?course_id=1993476) [![Udemy Course](https://img.shields.io/badge/Udemy-Python%20Web%20Scraping-lightgrey)](https://www.udemy.com/course-dashboard-redirect/?course_id=2088396)
 
 
-## 🏆 My Stats
-<div align=left>
+
   
   <a href="https://github.com/visualGravitySense">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=visualGravitySense&theme=neon-dark&date_format=M%20j%5B%2C%20Y%5D" alt="visualGravitySense"  height=100%/>
