@@ -59,6 +59,8 @@ Cryptocurrency Dashboard is a front-end application built using React, Vite, and
 
 https://github.com/visualGravitySense/crypto-data
 
+[demo page link](https://visualgravitysense.github.io/crypto-data/)
+
 📚 Technologies:
 React — for building the UI and managing component states.
 Vite — for fast build and development.
