@@ -73,8 +73,6 @@ Display detailed information for each cryptocurrency.
 🔗 API:
 CoinPaprika API is used to fetch cryptocurrency data. Full API documentation can be found here.
 
-🖥️ Screenshots:
-(Add screenshots of your application here)
 
 🔄 Future Plans:
 Add charts to visualize cryptocurrency price changes.
