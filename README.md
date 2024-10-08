@@ -1,4 +1,4 @@
-![Banner](img/banner-test.png)
+
 
 ## 👋 I’m **Anti Software Engineer**
 
@@ -32,20 +32,7 @@ I defy conventional development by crafting bold, unconventional digital experie
 
 # 📱 UI/UX Projects
 Here you will find links and descriptions of my best projects in UI/UX design, including screenshots and case studies.
-#### Website: Driving School 
-This is a modern, multi-language website for the "Victoria" driving school, developed using Nuxt 3 and Vue.js with i18n support. The design incorporates the latest 2024 web design trends, including dark mode, minimalism, parallax scrolling, and micro-interactions. https://github.com/visualGravitySense/viktorija4
 
-Features:
-Multi-language support (i18n): English and Russian.
-Dark Mode: Toggle between light and dark themes.
-Responsive Design: Optimized for all devices (desktop, tablet, mobile).
-Parallax Scrolling: Engaging, dynamic background effects.
-Modern UI Elements: Clean typography, 3D elements, and micro-interactions.
-Accessibility: Inclusive design for all users.
-Technologies:
-Nuxt 3 (Vue.js)
-Vue-i18n for multi-language support
-HTML5, CSS3 with scoped styling
 
 # 📺 Front-End Projects
 Here you will find links and descriptions of my best projects in Front-End development, including screenshots and case studies.
