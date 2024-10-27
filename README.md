@@ -48,11 +48,7 @@ https://github.com/visualGravitySense/crypto-data
 React — for building the UI and managing component states.
 Vite — for fast build and development.
 Bootstrap — for styling and responsive layout.
-CoinPaprika API — for fetching cryptocurrency data such as current prices, symbols, and rankings.
-📈 Key Features:
-View a list of cryptocurrencies with the ability to sort by various parameters (symbol, name, rank).
-Search functionality to quickly find a specific cryptocurrency.
-Display detailed information for each cryptocurrency.
+
 🔗 API:
 CoinPaprika API is used to fetch cryptocurrency data. Full API documentation can be found here.
 
