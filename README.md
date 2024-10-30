@@ -9,7 +9,9 @@ I defy conventional development by crafting bold, unconventional digital experie
 
 <br>
 
-[![Portfolio Website](https://img.shields.io/badge/Portfolio-Website-orange)](https://digodesignerweb-marketing-web.up.railway.app/) ![100 Days of Code](https://img.shields.io/badge/Challenge-100%20Days%20of%20Code-blue) [![React JS Course](https://www.gammatest.net/certificates/56528a77cd50f8079eedfde706a098e7e0c6aeae.php)](https://img.shields.io/badge/Course-React%20JS-blueviolet) [![Udemy Course](https://img.shields.io/badge/Udemy-Machine%20Learning-ff69b4)](https://www.udemy.com/course-dashboard-redirect/?course_id=2889506) [![Udemy Course](https://img.shields.io/badge/Udemy-Python%20data%20parsing%20and%20analys-yellow)](https://www.udemy.com/course-dashboard-redirect/?course_id=2699786) [![Udemy Course](https://img.shields.io/badge/Udemy-Python%20Django%20service%20scraping-red)](https://www.udemy.com/course-dashboard-redirect/?course_id=1993476) [![Udemy Course](https://img.shields.io/badge/Udemy-Python%20Web%20Scraping-lightgrey)](https://www.udemy.com/course-dashboard-redirect/?course_id=2088396)
+[![Portfolio Website](https://img.shields.io/badge/Portfolio-Website-orange)](https://digodesignerweb-marketing-web.up.railway.app/) ![100 Days of Code](https://img.shields.io/badge/Challenge-100%20Days%20of%20Code-blue) 
+
+[![React JS Course](https://img.shields.io/badge/Course-React%20JS-blueviolet)](https://www.gammatest.net/certificates/56528a77cd50f8079eedfde706a098e7e0c6aeae.php) [![Udemy Course](https://img.shields.io/badge/Udemy-Machine%20Learning-ff69b4)](https://www.udemy.com/course-dashboard-redirect/?course_id=2889506) [![Udemy Course](https://img.shields.io/badge/Udemy-Python%20data%20parsing%20and%20analys-yellow)](https://www.udemy.com/course-dashboard-redirect/?course_id=2699786) [![Udemy Course](https://img.shields.io/badge/Udemy-Python%20Django%20service%20scraping-red)](https://www.udemy.com/course-dashboard-redirect/?course_id=1993476) [![Udemy Course](https://img.shields.io/badge/Udemy-Python%20Web%20Scraping-lightgrey)](https://www.udemy.com/course-dashboard-redirect/?course_id=2088396)
 
 
 
