@@ -1,6 +1,6 @@
 
 
-## 👋 I’m **Anti Software Engineer**
+## 👋 I’m **Anti Software Designer**
 
 I defy conventional development by crafting bold, unconventional digital experiences. My approach fuses dynamic UI/UX design with the power of front-end technologies like Vue.js and React, while my back-end expertise in Python ensures functionality that disrupts the norm. I don’t just build software; I challenge the standard ways it’s created, delivering interfaces and systems that are as striking as they are effective.
 
