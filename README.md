@@ -6,8 +6,11 @@ I defy conventional development by crafting bold, unconventional digital experie
 
 
 
+![](https://i.imgur.com/waxVImv.png)
 
 <br>
+
+
 
 [![Portfolio Website](https://img.shields.io/badge/Portfolio-Website-orange)](https://digodesignerweb-marketing-web.up.railway.app/) ![100 Days of Code](https://img.shields.io/badge/Challenge-100%20Days%20of%20Code-blue) 
 
