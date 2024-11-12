@@ -11,6 +11,16 @@ I defy conventional development by crafting bold, unconventional digital experie
 <br>
 
 
+- **[Crypto-dashboard](https://github.com/visualGravitySense/crypto-data)**: A cryptocurrency tracking app with an intuitive UI and data visualization.
+- **[Mood Gify](https://github.com/Kefirchik99/MoodGify-Front)**: A gif analyzer that detects the user's mood and suggests corresponding gifs.
+- **[BisonWise](https://github.com/visualGravitySense/BisonWise-react-vite)**: An online course platform designed with a minimalist approach and aimed at training the workforce.
+
+## 🧰 Skills and technologies
+- **Frontend**: ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white) ![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white)
+- **Backend**: ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+- **API Integration**: REST API, GraphQL, and e t.c..
+
+
 
 [![Portfolio Website](https://img.shields.io/badge/Portfolio-Website-orange)](https://digodesignerweb-marketing-web.up.railway.app/) ![100 Days of Code](https://img.shields.io/badge/Challenge-100%20Days%20of%20Code-blue) 
 
