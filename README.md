@@ -7,7 +7,6 @@ My open src Projects
 
 - **[Crypto-dashboard](https://github.com/visualGravitySense/crypto-data)**: A cryptocurrency tracking app with an intuitive UI and data visualization.
 - **[Mood Gify](https://github.com/Kefirchik99/MoodGify-Front)**: A gif analyzer that detects the user's mood and suggests corresponding gifs.
-- **[BisonWise](https://github.com/visualGravitySense/BisonWise-react-vite)**: An online course platform designed with a minimalist approach and aimed at training the workforce.
 
 ## 🧰 Skills and technologies
 **Frontend**: 
