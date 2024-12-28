@@ -12,7 +12,6 @@ My open src Projects
 ## 🧰 Skills and technologies
 **Frontend**: 
 - ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white) ![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white)
-- ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white)
 - ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white) ![Nuxt](https://img.shields.io/badge/-Nuxt-00DC82?logo=nuxt.js&logoColor=white)
 
 **Backend**:
