@@ -21,12 +21,43 @@ My open src Projects
 
 
 
+**Design & Marketing**:
 
+- ![Figma: Product Design](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
+- ![Creative Cloud: Marketing](https://img.shields.io/badge/-Adobe_Creative_Cloud-FF0000?logo=adobe-creative-cloud&logoColor=white)
+
+**3D Modeling & Animation**
+
+- ![Blender](https://img.shields.io/badge/-Blender-F5792A?logo=blender&logoColor=white)
+- ![Maya](https://img.shields.io/badge/-Maya-005C97?logo=autodesk&logoColor=white)
+
+
+
+
+
+ <br>
+ 
+## 🧑‍🎓 My Completed Courses
 
 ![275 Days of Code](https://img.shields.io/badge/Code_Challenge-275%20Days_of_Code-%23f39c12?style=for-the-badge&logo=codeforces&logoColor=white)
 
+#### Front-End Development
 
-[![React JS Course](https://img.shields.io/badge/Course-React%20JS-blueviolet)](https://www.gammatest.net/certificates/56528a77cd50f8079eedfde706a098e7e0c6aeae.php) [![Udemy Course](https://img.shields.io/badge/Udemy-Machine%20Learning-ff69b4)](https://www.udemy.com/course-dashboard-redirect/?course_id=2889506) [![Udemy Course](https://img.shields.io/badge/Udemy-Python%20data%20parsing%20and%20analys-yellow)](https://www.udemy.com/course-dashboard-redirect/?course_id=2699786) [![Udemy Course](https://img.shields.io/badge/Udemy-Python%20Django%20service%20scraping-red)](https://www.udemy.com/course-dashboard-redirect/?course_id=1993476) [![Udemy Course](https://img.shields.io/badge/Udemy-Python%20Web%20Scraping-lightgrey)](https://www.udemy.com/course-dashboard-redirect/?course_id=2088396)
+
+<br>
+
+I successfully completed the Front-End Development course on GammaTest.
+
+![Front-End Development](https://img.shields.io/badge/Front--End_Development-Certificate-%23007acc?style=for-the-badge&logo=html5&logoColor=white)
+
+
+<br>
+
+
+
+
+
+[![Udemy Course](https://img.shields.io/badge/Udemy-Machine%20Learning-ff69b4)](https://www.udemy.com/course-dashboard-redirect/?course_id=2889506) [![Udemy Course](https://img.shields.io/badge/Udemy-Python%20data%20parsing%20and%20analys-yellow)](https://www.udemy.com/course-dashboard-redirect/?course_id=2699786) [![Udemy Course](https://img.shields.io/badge/Udemy-Python%20Django%20service%20scraping-red)](https://www.udemy.com/course-dashboard-redirect/?course_id=1993476) [![Udemy Course](https://img.shields.io/badge/Udemy-Python%20Web%20Scraping-lightgrey)](https://www.udemy.com/course-dashboard-redirect/?course_id=2088396)
 
 
 
