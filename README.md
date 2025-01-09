@@ -11,25 +11,11 @@ My open src Projects
 - **[Get-(sh)-It-Done](https://github.com/visualGravitySense/Get-sh-it-Done)**: Task Management System, is a productivity tool that integrates Obsidian and Telegram to streamline task management and enhance productivity.
 
 ## 🧰 Skills and technologies
-**Frontend**: 
-- ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white) ![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white)
-- ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white) ![Nuxt](https://img.shields.io/badge/-Nuxt-00DC82?logo=nuxt.js&logoColor=white)
+| **Frontend** | **Backend** | **Design & Marketing** | **3D Modeling & Animation** |
+|--------------|-------------|------------------------|-----------------------------|
+| ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white) ![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white) | ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) | ![Figma: Product Design](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white) | ![Blender](https://img.shields.io/badge/-Blender-F5792A?logo=blender&logoColor=white) |
+| ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white) ![Nuxt](https://img.shields.io/badge/-Nuxt-00DC82?logo=nuxt.js&logoColor=white) | ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white) | ![Creative Cloud: Marketing](https://img.shields.io/badge/-Adobe_Creative_Cloud-FF0000?logo=adobe-creative-cloud&logoColor=white) | ![Maya](https://img.shields.io/badge/-Maya-005C97?logo=autodesk&logoColor=white) |
 
-**Backend**:
-- ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
-- ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)
-
-
-
-**Design & Marketing**:
-
-- ![Figma: Product Design](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
-- ![Creative Cloud: Marketing](https://img.shields.io/badge/-Adobe_Creative_Cloud-FF0000?logo=adobe-creative-cloud&logoColor=white)
-
-**3D Modeling & Animation**
-
-- ![Blender](https://img.shields.io/badge/-Blender-F5792A?logo=blender&logoColor=white)
-- ![Maya](https://img.shields.io/badge/-Maya-005C97?logo=autodesk&logoColor=white)
 
 
 
