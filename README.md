@@ -34,7 +34,8 @@ My open src Projects
 
 I successfully completed the Front-End Development course on GammaTest.
 
-![Front-End Development](https://img.shields.io/badge/Front--End_Development-Certificate-%23007acc?style=for-the-badge&logo=html5&logoColor=white)
+[![Front-End Development](https://img.shields.io/badge/Front--End_Development-Certificate-%23007acc?style=for-the-badge&logo=html5&logoColor=white)](https://www.gammatest.net/certificates/56528a77cd50f8079eedfde706a098e7e0c6aeae.php)
+
 
 The course is currently in progress:
 
