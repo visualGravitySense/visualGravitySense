@@ -36,6 +36,11 @@ I successfully completed the Front-End Development course on GammaTest.
 
 ![Front-End Development](https://img.shields.io/badge/Front--End_Development-Certificate-%23007acc?style=for-the-badge&logo=html5&logoColor=white)
 
+The course is currently in progress:
+
+[![Data Analysis](https://img.shields.io/badge/Data_Analysis-Python_&_SQL-%233572A5?style=for-the-badge&logo=python&logoColor=white)](https://www.gammatest.net/en/data_analysis_course.php)
+
+
 
 <br>
 
