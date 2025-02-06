@@ -52,7 +52,7 @@ The course is currently in progress:
 [![Udemy Course](https://img.shields.io/badge/Udemy-Machine%20Learning-ff69b4)](https://www.udemy.com/course-dashboard-redirect/?course_id=2889506) [![Udemy Course](https://img.shields.io/badge/Udemy-Python%20data%20parsing%20and%20analys-yellow)](https://www.udemy.com/course-dashboard-redirect/?course_id=2699786) [![Udemy Course](https://img.shields.io/badge/Udemy-Python%20Django%20service%20scraping-red)](https://www.udemy.com/course-dashboard-redirect/?course_id=1993476) [![Udemy Course](https://img.shields.io/badge/Udemy-Python%20Web%20Scraping-lightgrey)](https://www.udemy.com/course-dashboard-redirect/?course_id=2088396)
 
 
-![275 Days of Code](https://img.shields.io/badge/Code_Challenge-275%20Days_of_Code-%23f39c12?style=for-the-badge&logo=codeforces&logoColor=white)
+![222 Days of Code](https://img.shields.io/badge/Code_Challenge-222%20Days_of_Code-%23f39c12?style=for-the-badge&logo=codeforces&logoColor=white)
 
  ![WaitingCatFilingNailGIF](https://github.com/user-attachments/assets/e354fcb0-bd38-4788-9008-ae210cd6cf01)
 <br/>
