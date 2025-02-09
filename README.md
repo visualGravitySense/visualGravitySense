@@ -10,15 +10,6 @@ My open src Projects
 - **[QuizBot for Telegram](https://github.com/visualGravitySense/bisonwise)**: This project is a Telegram bot designed to conduct quizzes and courses focused on UX/UI design.
 - **[Get-(sh)-It-Done](https://github.com/visualGravitySense/Get-sh-it-Done)**: Task Management System, is a productivity tool that integrates Obsidian and Telegram to streamline task management and enhance productivity.
 
-## 🧰 Skills and technologies
-| **Frontend** | **Backend** | **Design & Marketing** | **3D Modeling & Animation** |
-|--------------|-------------|------------------------|-----------------------------|
-| ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white) ![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white) | ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) | ![Figma: Product Design](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white) | ![Blender](https://img.shields.io/badge/-Blender-F5792A?logo=blender&logoColor=white) |
-| ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white) ![Nuxt](https://img.shields.io/badge/-Nuxt-00DC82?logo=nuxt.js&logoColor=white) | ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white) | ![Creative Cloud: Marketing](https://img.shields.io/badge/-Adobe_Creative_Cloud-FF0000?logo=adobe-creative-cloud&logoColor=white) | ![Maya](https://img.shields.io/badge/-Maya-005C97?logo=autodesk&logoColor=white) |
-
-
-
-
 
 
  <br>
@@ -45,11 +36,6 @@ The course is currently in progress:
 
 <br>
 
-
-
-
-
-[![Udemy Course](https://img.shields.io/badge/Udemy-Machine%20Learning-ff69b4)](https://www.udemy.com/course-dashboard-redirect/?course_id=2889506) [![Udemy Course](https://img.shields.io/badge/Udemy-Python%20data%20parsing%20and%20analys-yellow)](https://www.udemy.com/course-dashboard-redirect/?course_id=2699786) [![Udemy Course](https://img.shields.io/badge/Udemy-Python%20Django%20service%20scraping-red)](https://www.udemy.com/course-dashboard-redirect/?course_id=1993476) [![Udemy Course](https://img.shields.io/badge/Udemy-Python%20Web%20Scraping-lightgrey)](https://www.udemy.com/course-dashboard-redirect/?course_id=2088396)
 
 
 ![222 Days of Code](https://img.shields.io/badge/Code_Challenge-222%20Days_of_Code-%23f39c12?style=for-the-badge&logo=codeforces&logoColor=white)
