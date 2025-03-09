@@ -98,6 +98,9 @@ The **Get (Sh)it Done (GSD)** Task Management System is a productivity tool that
   
 This project aims to combine the strengths of both platforms, offering a seamless, user-friendly experience for organizing and completing tasks efficiently. https://github.com/visualGravitySense/Get-sh-it-Done
 
+![My GitHub activity](https://github-readme-activity-graph.vercel.app/graph?username=visualGravitySense&theme=github-compact)
+
+
 ![Visitors](https://komarev.com/ghpvc/?username=visualGravitySense&label=visitors&color=0e75b6&style=for-the-badge)
 
 
