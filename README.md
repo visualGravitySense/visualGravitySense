@@ -37,9 +37,9 @@ The course is currently in progress:
 
 
 
-<br>
+
  ![WaitingCatFilingNailGIF](https://github.com/user-attachments/assets/e354fcb0-bd38-4788-9008-ae210cd6cf01)
-<br/>
+
 
 
  <div>
