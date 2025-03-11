@@ -46,7 +46,7 @@ My open src Projects
 
 ![](https://i.imgur.com/waxVImv.png)
 
-
+- **[School Course Platform](https://github.com/visualGravitySense/auto-school)** This project is an open-source web application for a driving or another school, designed to manage course listings, scheduling, and enrollment. Built with modern web technologies, it supports multilingual content.
 - **[Crypto-dashboard](https://github.com/visualGravitySense/crypto-data)**: A cryptocurrency tracking app with an intuitive UI and data visualization.
 - **[Mood Gify](https://github.com/Kefirchik99/MoodGify-Front)**: A gif analyzer that detects the user's mood and suggests corresponding gifs.
 - **[QuizBot for Telegram](https://github.com/visualGravitySense/bisonwise)**: This project is a Telegram bot designed to conduct quizzes and courses focused on UX/UI design.
