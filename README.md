@@ -46,6 +46,13 @@ My open src Projects
 
 ![](https://i.imgur.com/waxVImv.png)
 
+
+- **[Crypto-dashboard](https://github.com/visualGravitySense/crypto-data)**: A cryptocurrency tracking app with an intuitive UI and data visualization.
+- **[Mood Gify](https://github.com/Kefirchik99/MoodGify-Front)**: A gif analyzer that detects the user's mood and suggests corresponding gifs.
+- **[QuizBot for Telegram](https://github.com/visualGravitySense/bisonwise)**: This project is a Telegram bot designed to conduct quizzes and courses focused on UX/UI design.
+- **[Get-(sh)-It-Done](https://github.com/visualGravitySense/Get-sh-it-Done)**: Task Management System, is a productivity tool that integrates Obsidian and Telegram to streamline task management and enhance productivity.
+
+
 <br>
 
 # Looking for Collaborators on GitHub
@@ -66,14 +73,6 @@ I am actively looking for people interested in collaborative projects! If you're
 
 > [!CAUTION]  
 > Attention: Programmers and designers should be ready for fast adaptation and meeting tight deadlines. Flexibility and teamwork skills are essential.
-
-
-
-- **[Crypto-dashboard](https://github.com/visualGravitySense/crypto-data)**: A cryptocurrency tracking app with an intuitive UI and data visualization.
-- **[Mood Gify](https://github.com/Kefirchik99/MoodGify-Front)**: A gif analyzer that detects the user's mood and suggests corresponding gifs.
-- **[QuizBot for Telegram](https://github.com/visualGravitySense/bisonwise)**: This project is a Telegram bot designed to conduct quizzes and courses focused on UX/UI design.
-- **[Get-(sh)-It-Done](https://github.com/visualGravitySense/Get-sh-it-Done)**: Task Management System, is a productivity tool that integrates Obsidian and Telegram to streamline task management and enhance productivity.
-
 
 
  <br>
