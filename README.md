@@ -4,6 +4,26 @@ My open src Projects
 
 <br>
 
+# Looking for Collaborators on GitHub
+
+I am actively looking for people interested in collaborative projects! If you're excited about working on innovative solutions in development, design, and technology, let's connect and build something great together.
+
+> [!NOTE]  
+> Important: I'm looking for developers with experience in **React**, **Vue.js**, **Node.js**, and other modern technologies, as well as designers and UX/UI specialists.
+
+> [!TIP]  
+> Additional Information: I would love to work with people who are eager to contribute to open-source projects and startups. My GitHub profile: [visualGravitySense](https://github.com/visualGravitySense).
+
+> [!IMPORTANT]  
+> Key Points: Please note that the main focus of the project is on **innovative design** and **user experience**, as well as using **modern frameworks and tools**.
+
+> [!WARNING]  
+> Important Note: We will be using **version control** (Git), so a good level of experience with GitHub and Git is required.
+
+> [!CAUTION]  
+> Attention: Programmers and designers should be ready for fast adaptation and meeting tight deadlines. Flexibility and teamwork skills are essential.
+
+
 
 - **[Crypto-dashboard](https://github.com/visualGravitySense/crypto-data)**: A cryptocurrency tracking app with an intuitive UI and data visualization.
 - **[Mood Gify](https://github.com/Kefirchik99/MoodGify-Front)**: A gif analyzer that detects the user's mood and suggests corresponding gifs.
