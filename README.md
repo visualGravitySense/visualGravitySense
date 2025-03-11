@@ -38,11 +38,6 @@ The course is currently in progress:
 
 
 <br>
-
-
-
-![365 Days of Code](https://img.shields.io/badge/Code_Challenge-365%20Days_of_Code-%23f39c12?style=for-the-badge&logo=codeforces&logoColor=white)
-
  ![WaitingCatFilingNailGIF](https://github.com/user-attachments/assets/e354fcb0-bd38-4788-9008-ae210cd6cf01)
 <br/>
 
