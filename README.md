@@ -14,8 +14,11 @@ My open src Projects
 
  <br>
  
-## 🧑‍🎓 My Completed Courses
+#### 🧑‍🎓 My Completed Courses
 
+<div align="center" style="background-color: #00FF00; padding: 10px;">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</div>
 
 
 #### Front-End Development
