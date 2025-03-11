@@ -1,3 +1,47 @@
+
+
+
+ ![WaitingCatFilingNailGIF](https://github.com/user-attachments/assets/e354fcb0-bd38-4788-9008-ae210cd6cf01)
+
+#### 🧑‍🎓 My Completed Courses
+
+<div align="center" style="background-color: #00FF00; padding: 10px;">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</div>
+
+
+#### Front-End Development
+
+
+<br>
+
+I successfully completed the Front-End Development course on GammaTest.
+
+[![Front-End Development](https://img.shields.io/badge/Front--End_Development-Certificate-%23007acc?style=for-the-badge&logo=html5&logoColor=white)](https://www.gammatest.net/certificates/56528a77cd50f8079eedfde706a098e7e0c6aeae.php)
+
+
+The course is currently in progress:
+
+[![Data Analysis](https://img.shields.io/badge/Data_Analysis-Python_&_SQL-%233572A5?style=for-the-badge&logo=python&logoColor=white)](https://www.gammatest.net/en/data_analysis_course.php)
+
+
+
+ <div>
+
+  <a href="https://github.com/visualGravitySense">
+  <img src="https://github-readme-stats.vercel.app/api?username=visualGravitySense&show_icons=true&locale=en&langs_count=20&count_private=true&theme=radical&layout=compact&hide_border=false&bg_color=000000&border_color=808080"  height=100%/>
+  </a>
+
+<a href="https://github.com/visualGravitySense">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=visualGravitySense&theme=tokyonight"/>
+</a>
+</div>
+
+
+
+<br/>
+
+
 My open src Projects
 
 ![](https://i.imgur.com/waxVImv.png)
@@ -33,52 +77,6 @@ I am actively looking for people interested in collaborative projects! If you're
 
 
  <br>
- 
-#### 🧑‍🎓 My Completed Courses
-
-<div align="center" style="background-color: #00FF00; padding: 10px;">
-    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-</div>
-
-
-#### Front-End Development
-
-
-<br>
-
-I successfully completed the Front-End Development course on GammaTest.
-
-[![Front-End Development](https://img.shields.io/badge/Front--End_Development-Certificate-%23007acc?style=for-the-badge&logo=html5&logoColor=white)](https://www.gammatest.net/certificates/56528a77cd50f8079eedfde706a098e7e0c6aeae.php)
-
-
-The course is currently in progress:
-
-[![Data Analysis](https://img.shields.io/badge/Data_Analysis-Python_&_SQL-%233572A5?style=for-the-badge&logo=python&logoColor=white)](https://www.gammatest.net/en/data_analysis_course.php)
-
-
-
-
- ![WaitingCatFilingNailGIF](https://github.com/user-attachments/assets/e354fcb0-bd38-4788-9008-ae210cd6cf01)
-
-
-
- <div>
-
-  <a href="https://github.com/visualGravitySense">
-  <img src="https://github-readme-stats.vercel.app/api?username=visualGravitySense&show_icons=true&locale=en&langs_count=20&count_private=true&theme=radical&layout=compact&hide_border=false&bg_color=000000&border_color=808080"  height=100%/>
-  </a>
-
-<a href="https://github.com/visualGravitySense">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=visualGravitySense&theme=tokyonight"/>
-</a>
-</div>
-
-
-
-<br/>
-
-
-
 
 
 # 📱 UI/UX Projects
