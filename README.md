@@ -1,8 +1,3 @@
-
-
-
- ![WaitingCatFilingNailGIF](https://github.com/user-attachments/assets/e354fcb0-bd38-4788-9008-ae210cd6cf01)
-
 #### 🧑‍🎓 My Completed Courses
 
 <div align="center" style="background-color: #00FF00; padding: 10px;">
@@ -12,13 +7,11 @@
 
 #### Front-End Development
 
-
-<br>
-
 I successfully completed the Front-End Development course on GammaTest.
 
 [![Front-End Development](https://img.shields.io/badge/Front--End_Development-Certificate-%23007acc?style=for-the-badge&logo=html5&logoColor=white)](https://www.gammatest.net/certificates/56528a77cd50f8079eedfde706a098e7e0c6aeae.php)
 
+#### Data Analysis with Python and SQL
 
 The course is currently in progress:
 
@@ -71,11 +64,6 @@ I am actively looking for people interested in collaborative projects! If you're
 > [!IMPORTANT]  
 > Key Points: Please note that the main focus of the project is on **innovative design** and **user experience**, as well as using **modern frameworks and tools**.
 
-> [!WARNING]  
-> Important Note: We will be using **version control** (Git), so a good level of experience with GitHub and Git is required.
-
-> [!CAUTION]  
-> Attention: Programmers and designers should be ready for fast adaptation and meeting tight deadlines. Flexibility and teamwork skills are essential.
 
 
  <br>
@@ -126,6 +114,8 @@ This project aims to combine the strengths of both platforms, offering a seamles
 -->
 
 ![Visitors](https://komarev.com/ghpvc/?username=visualGravitySense&label=visitors&color=0e75b6&style=for-the-badge)
+
+![WaitingCatFilingNailGIF](https://github.com/user-attachments/assets/e354fcb0-bd38-4788-9008-ae210cd6cf01)
 
 
 <!--
