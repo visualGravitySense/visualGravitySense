@@ -45,7 +45,6 @@ My open src Projects
 - **[School Course Platform](https://github.com/visualGravitySense/auto-school)** This project is an open-source web application for a driving or another school, designed to manage course listings, scheduling, and enrollment. Built with modern web technologies, it supports multilingual content.
 - **[Crypto-dashboard](https://github.com/visualGravitySense/crypto-data)**: A cryptocurrency tracking app with an intuitive UI and data visualization.
 - **[Mood Gify](https://github.com/Kefirchik99/MoodGify-Front)**: A gif analyzer that detects the user's mood and suggests corresponding gifs.
-- **[QuizBot for Telegram](https://github.com/visualGravitySense/bisonwise)**: This project is a Telegram bot designed to conduct quizzes and courses focused on UX/UI design.
 - **[Get-(sh)-It-Done](https://github.com/visualGravitySense/Get-sh-it-Done)**: Task Management System, is a productivity tool that integrates Obsidian and Telegram to streamline task management and enhance productivity.
 
 
@@ -93,11 +92,6 @@ Here you will find links and descriptions of my best projects in Front-End devel
 - **[Mood Gify](https://github.com/Kefirchik99/MoodGify-Front)**: A gif analyzer that detects the user's mood and suggests corresponding gifs.
 
 
-# 🤖 Back-End Projects
-Here you will find links and descriptions of my best projects in UI/UX Back-End.
-#### Bot: QuizBot for Telegram
-
-This project is a Telegram bot for conducting quizzes and interactive courses on UX/UI design. The bot provides users with educational tasks, tracks their progress, and stores data in a MongoDB database. It also supports paid courses for advanced users. https://github.com/visualGravitySense/bisonwise
 
 
 # 🗓️ Get (Sh)it Done (GSD) Task Management System
