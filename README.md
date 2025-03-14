@@ -1,48 +1,3 @@
-#### 🧑‍🎓 My Completed Courses
-
-<div align="center" style="background-color: #00FF00; padding: 10px;">
-    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-</div>
-
-
-#### Front-End Development
-
-I successfully completed the Front-End Development course on GammaTest.
-
-[![Front-End Development](https://img.shields.io/badge/Front--End_Development-Certificate-%23007acc?style=for-the-badge&logo=html5&logoColor=white)](https://www.gammatest.net/certificates/56528a77cd50f8079eedfde706a098e7e0c6aeae.php)
-
-#### Data Analysis with Python and SQL
-
-The course is currently in progress:
-
-[![Data Analysis](https://img.shields.io/badge/Data_Analysis-Python_&_SQL-%233572A5?style=for-the-badge&logo=python&logoColor=white)](https://www.gammatest.net/en/data_analysis_course.php)
-
-
-
- <div>
-
-  
-   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=visualGravitySense&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=tokyonight)
-<!--   <img src="https://github-readme-stats.vercel.app/api?username=visualGravitySense&show_icons=true&locale=en&langs_count=20&count_private=true&theme=radical&layout=compact&hide_border=false&bg_color=000000&border_color=808080"  height=100%/> -->
-  
-
-<a href="https://github.com/visualGravitySense">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=visualGravitySense&theme=tokyonight"/>
-</a>
-</div>
-
-
-
-
-
-<br/>
-
-<a href="https://buymeacoffee.com/visualgravitysense" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 50px !important;width: 180px !important;">
-</a>
-
-
-
 My open src Projects
 
 ![](https://i.imgur.com/waxVImv.png)
@@ -52,6 +7,9 @@ My open src Projects
 - **[Mood Gify](https://github.com/Kefirchik99/MoodGify-Front)**: A gif analyzer that detects the user's mood and suggests corresponding gifs.
 - **[Get-(sh)-It-Done](https://github.com/visualGravitySense/Get-sh-it-Done)**: Task Management System, is a productivity tool that integrates Obsidian and Telegram to streamline task management and enhance productivity.
 
+<a href="https://buymeacoffee.com/visualgravitysense" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 50px !important;width: 180px !important;">
+</a>
 
 <br>
 
@@ -107,6 +65,57 @@ The **Get (Sh)it Done (GSD)** Task Management System is a productivity tool that
 - **Telegram**: Provides task tracking, scheduling management, and real-time notifications through a bot interface.
   
 This project aims to combine the strengths of both platforms, offering a seamless, user-friendly experience for organizing and completing tasks efficiently. https://github.com/visualGravitySense/Get-sh-it-Done
+
+<br/>
+
+<a href="https://buymeacoffee.com/visualgravitysense" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 50px !important;width: 180px !important;">
+</a>
+
+#### 🧑‍🎓 My Completed Courses
+
+<div align="center" style="background-color: #00FF00; padding: 10px;">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</div>
+
+
+#### Front-End Development
+
+I successfully completed the Front-End Development course on GammaTest.
+
+[![Front-End Development](https://img.shields.io/badge/Front--End_Development-Certificate-%23007acc?style=for-the-badge&logo=html5&logoColor=white)](https://www.gammatest.net/certificates/56528a77cd50f8079eedfde706a098e7e0c6aeae.php)
+
+#### Data Analysis with Python and SQL
+
+The course is currently in progress:
+
+[![Data Analysis](https://img.shields.io/badge/Data_Analysis-Python_&_SQL-%233572A5?style=for-the-badge&logo=python&logoColor=white)](https://www.gammatest.net/en/data_analysis_course.php)
+
+
+
+ <div>
+
+  
+   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=visualGravitySense&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=tokyonight)
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=visualGravitySense&show_icons=true&locale=en&langs_count=20&count_private=true&theme=radical&layout=compact&hide_border=false&bg_color=000000&border_color=808080"  height=100%/> -->
+  
+
+<a href="https://github.com/visualGravitySense">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=visualGravitySense&theme=tokyonight"/>
+</a>
+</div>
+
+
+
+
+
+<br/>
+
+
+
+
+
+
 
 <!--
 ![My GitHub activity](https://github-readme-activity-graph.vercel.app/graph?username=visualGravitySense&theme=github-compact)
