@@ -73,9 +73,7 @@ This project aims to combine the strengths of both platforms, offering a seamles
 
 <br/>
 
-<a href="https://buymeacoffee.com/visualgravitysense" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 50px !important;width: 180px !important;">
-</a>
+
 
 #### 🧑‍🎓 My Completed Courses
 
@@ -130,6 +128,9 @@ The course is currently in progress:
 
 ![WaitingCatFilingNailGIF](https://github.com/user-attachments/assets/e354fcb0-bd38-4788-9008-ae210cd6cf01)
 
+<a href="https://buymeacoffee.com/visualgravitysense" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 50px !important;width: 180px !important;">
+</a>
 
 <!--
 **visualGravitySense/visualGravitySense** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
