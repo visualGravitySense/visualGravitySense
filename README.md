@@ -2,6 +2,13 @@
 
 I’m a designer and full-stack developer. I help businesses grow their online presence and create impactful solutions that inspire and drive results.
 <br>
+
+🔭 I’m currently working on POS for small business
+
+🌱 I’m currently learning Data Analysis
+
+💬 Ask me about: Product and Graphic Design, React, Back-End Development, Open Source and GitHub 
+
 ## 😎 Follow me
 [![Instagram](https://ziadoua.github.io/m3-Markdown-Badges/badges/Instagram/instagram1.svg)](https://www.instagram.com/gornainsta/) [![Telegram](https://ziadoua.github.io/m3-Markdown-Badges/badges/Telegram/telegram1.svg)](https://t.me/visual_sense/)
  [![Email](https://ziadoua.github.io/m3-Markdown-Badges/badges/Mail/mail2.svg)](mailto:dmitri.gornakov@gmail.com) [![Portfolio](https://ziadoua.github.io/m3-Markdown-Badges/badges/MyPortfolio/myportfolio1.svg)](https://visualgravitysense.github.io/website-portfolio-blog/) [![LinkedIn](https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin1.svg)](https://www.linkedin.com/in/dmitri-gornakov-7a664840/) [![Behance](https://ziadoua.github.io/m3-Markdown-Badges/badges/Behance/behance1.svg)](https://www.behance.net/digo_agency) 
