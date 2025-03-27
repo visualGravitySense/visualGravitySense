@@ -3,6 +3,37 @@
 I’m a designer and full-stack developer. I help businesses grow their online presence and create impactful solutions that inspire and drive results.
 <br>
 
+## 🚀 My Skills & Technologies  
+
+### 🖥️ Frontend Development  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)  
+Experienced in building dynamic and interactive user interfaces with **React.js, Vue.js**, and **TypeScript**.  
+
+### 🎨 UI/UX & Styling  
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)  
+Skilled in **Tailwind CSS** and **Bootstrap** for crafting modern, responsive designs.  
+
+### ⚙️ Backend & APIs  
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+Developing robust server-side applications and APIs using **Node.js (Express.js)** and **Python**.  
+
+### 📦 Databases  
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
+Experienced in working with **MongoDB** and **PostgreSQL** for scalable data management.  
+
+### 🚀 DevOps & Tools  
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+Setting up CI/CD pipelines with **GitHub Actions** and containerizing applications using **Docker**.  
+
+### 🛠️ Other Skills  
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)  
+Working with **GraphQL**, API integrations, and UI/UX prototyping in **Figma**.  
+
+🔹 **Experience**: Advanced frontend development, performance optimization, SEO, UX/UI design  
+🔹 **Methodologies**: Agile, SCRUM, TDD  
+
+
+
 ⚒️ I’m currently working on POS for small business
 
 🏫 I’m currently learning Data Analysis
