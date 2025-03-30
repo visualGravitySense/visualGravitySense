@@ -49,11 +49,13 @@ My open src Projects
 
 ![](https://i.imgur.com/waxVImv.png)
 
-- **[Get-(sh)-It-Done](https://github.com/visualGravitySense/Get-sh-it-Done)**: Task Management System, is a productivity tool that integrates Obsidian and Telegram to streamline task management and enhance productivity.
-- **[Crypto-dashboard](https://github.com/visualGravitySense/crypto-data)**: A cryptocurrency tracking app with an intuitive UI and data visualization.
 - **[Job Scraping Server](https://github.com/visualGravitySense/digo_django)** This project is a web scraping server that collects job listings from local job search websites. It allows users to retrieve and analyze job postings programmatically.
-- **[School Course Platform](https://github.com/visualGravitySense/auto-school)** This project is an open-source web application for a driving or another school, designed to manage course listings, scheduling, and enrollment. Built with modern web technologies, it supports multilingual content.
 - **[Mood Gify](https://github.com/Kefirchik99/MoodGify-Front)**: A gif analyzer that detects the user's mood and suggests corresponding gifs.
+- **[School Course Platform](https://github.com/visualGravitySense/auto-school)** This project is an open-source web application for a driving or another school, designed to manage course listings, scheduling, and enrollment. Built with modern web technologies, it supports multilingual content.
+- **[Crypto-dashboard](https://github.com/visualGravitySense/crypto-data)**: A cryptocurrency tracking app with an intuitive UI and data visualization.
+- **[Get-(sh)-It-Done](https://github.com/visualGravitySense/Get-sh-it-Done)**: Task Management System, is a productivity tool that integrates Obsidian and Telegram to streamline task management and enhance productivity.
+
+
 
 
 <a href="https://buymeacoffee.com/visualgravitysense" target="_blank">
