@@ -107,9 +107,9 @@ The course is currently in progress:
 <!--   <img src="https://github-readme-stats.vercel.app/api?username=visualGravitySense&show_icons=true&locale=en&langs_count=20&count_private=true&theme=radical&layout=compact&hide_border=false&bg_color=000000&border_color=808080"  height=100%/> -->
   
 
-<a href="https://github.com/visualGravitySense">
+<!-- <a href="https://github.com/visualGravitySense">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=visualGravitySense&theme=tokyonight"/>
-</a>
+</a> -->
 </div>
 
 
