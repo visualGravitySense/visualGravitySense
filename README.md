@@ -32,10 +32,6 @@ Developing robust server-side applications and APIs using **Node.js (Express.js)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
 Experienced in working with **MongoDB** and **PostgreSQL** for scalable data management.  
 
-### 🚀 DevOps & Tools  
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
-Setting up CI/CD pipelines with **GitHub Actions** and containerizing applications using **Docker**.  
-
 ### 🛠️ Other Skills  
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)  
 Working with **GraphQL**, API integrations, and UI/UX prototyping in **Figma**.  
