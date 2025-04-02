@@ -41,7 +41,7 @@ Working with **GraphQL**, API integrations, and UI/UX prototyping in **Figma**.
 
 
 
-My open src Projects
+## My open src Projects
 
 ![](https://i.imgur.com/waxVImv.png)
 
@@ -52,6 +52,11 @@ My open src Projects
 - **[Get-(sh)-It-Done](https://github.com/visualGravitySense/Get-sh-it-Done)**: Task Management System, is a productivity tool that integrates Obsidian and Telegram to streamline task management and enhance productivity.
 
 
+### My open Guides
+
+![](https://i.imgur.com/waxVImv.png)
+
+- **[GitHub Mastery Guide](https://github.com/visualGravitySense/GitHub-Mastery-Guide)** GitHub Mastery Guide: Setup, Achievements, and Promotion 📌 Key Topics: Profile Setup, Achievements, SEO, Content, Community
 
 
 <a href="https://buymeacoffee.com/visualgravitysense" target="_blank">
