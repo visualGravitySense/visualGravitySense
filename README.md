@@ -59,9 +59,9 @@ Working with **GraphQL**, API integrations, and UI/UX prototyping in **Figma**.
 - **[GitHub Mastery Guide](https://github.com/visualGravitySense/GitHub-Mastery-Guide)** GitHub Mastery Guide: Setup, Achievements, and Promotion 📌 Key Topics: Profile Setup, Achievements, SEO, Content, Community
 
 
-<a href="https://buymeacoffee.com/visualgravitysense" target="_blank">
+<!-- <a href="https://buymeacoffee.com/visualgravitysense" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 50px !important;width: 180px !important;">
-</a>
+</a> -->
 
 <br>
 
