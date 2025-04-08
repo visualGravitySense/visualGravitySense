@@ -26,11 +26,6 @@
 > Experienced in building dynamic and interactive user interfaces with **React.js, Vue.js**, and **TypeScript**. Skilled in **Tailwind CSS** and **Bootstrap** for crafting modern, responsive designs.   Additional Information: I would love to work with people who are eager to contribute to open-source projects and startups. My GitHub profile: [visualGravitySense](https://github.com/visualGravitySense).
 > 🙋‍♂️ Ask me about: Product and Graphic Design, React, Back-End Development, Open Source and GitHub 
 
-> [!IMPORTANT]  
-> ### My open Guides
-> **[GitHub Mastery Guide](https://github.com/visualGravitySense/GitHub-Mastery-Guide)** GitHub Mastery Guide: Setup, Achievements, and Promotion 📌 Key Topics: Profile Setup, Achievements, SEO, Content, Community
-
- <br>
 
 ## My open src Projects
 
@@ -40,14 +35,18 @@
 - **[Mood Gify](https://github.com/Kefirchik99/MoodGify-Front)**: A gif analyzer that detects the user's mood and suggests corresponding gifs.
 - **[Get-(sh)-It-Done](https://github.com/visualGravitySense/Get-sh-it-Done)**: Task Management System, is a productivity tool that integrates Obsidian and Telegram to streamline task management and enhance productivity.
 
-
-
-
 <!-- <a href="https://buymeacoffee.com/visualgravitysense" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 50px !important;width: 180px !important;">
 </a> -->
 
 <br>
+
+> [!IMPORTANT]  
+> ### My open Guides
+> **[GitHub Mastery Guide](https://github.com/visualGravitySense/GitHub-Mastery-Guide)** GitHub Mastery Guide: Setup, Achievements, and Promotion 📌 Key Topics: Profile Setup, Achievements, SEO, Content, Community
+
+ <br>
+
 
 
 
