@@ -26,6 +26,23 @@
 > 🙋‍♂️ Ask me about: Product and Graphic Design, React, Back-End Development, Open Source and GitHub 
 
 
+## 📱 Mobile Development
+
+> [!TIP]
+> ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)  
+> Proficient in developing cross-platform and native mobile applications that deliver exceptional user experiences. Skilled in **React Native** and **Flutter** for cross-platform development, as well as **Swift** for iOS and **Kotlin** for Android native applications. Experienced with **Firebase** for backend services, authentication, and real-time databases.
+
+### Mobile App Projects
+
+![](https://i.imgur.com/waxVImv.png)
+
+- **[CrossFit Tracker](https://github.com/visualGravitySense/crossfit-tracker)**: A fitness tracking application built with React Native that helps users track their CrossFit workouts, set goals, and monitor progress.
+- **[EcoScan](https://github.com/visualGravitySense/eco-scan)**: A Flutter-based mobile app that uses machine learning to identify recyclable items through the camera and provides recycling instructions.
+- **[LocalEats](https://github.com/visualGravitySense/local-eats)**: A food discovery app built with Swift that connects users with local restaurants and food vendors, featuring geolocation and personalized recommendations.
+
+> [!NOTE] My mobile app development approach focuses on creating intuitive user interfaces, optimizing performance, and ensuring cross-device compatibility. I prioritize clean architecture patterns like MVVM and incorporate modern mobile development practices including responsive layouts, offline-first functionality, and seamless API integration.
+> 
+
 ## My open src Projects
 
 ![](https://i.imgur.com/waxVImv.png)
