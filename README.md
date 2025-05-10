@@ -4,9 +4,9 @@
 > [!NOTE]  
 > Looking for Collaborators on GitHub for people interested in collaborative projects! If you're excited about working on innovative solutions in development, design, and technology, let's connect and build something great together.
 >
-> I’m a designer and full-stack developer. I help businesses grow their online presence and create impactful solutions that inspire and drive results.
+> I’m a designer and Full-stack developer. I help businesses grow their online presence and create impactful solutions that inspire and drive results.
 > 
-> ⚒️ I’m currently working on POS for small business
+> ⚒️ I’m currently working on "Product Design Guide"
 
 
 
