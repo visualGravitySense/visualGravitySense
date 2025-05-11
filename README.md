@@ -21,8 +21,9 @@
 
 
 > [!TIP]
-> ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Pigment CSS](https://img.shields.io/badge/Pigment_CSS-2D2D2D?style=for-the-badge&logo=mui&logoColor=white)
- ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)   
+> ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Pigment CSS](https://img.shields.io/badge/Pigment_CSS-2D2D2D?style=for-the-badge&logo=mui&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) ![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+ ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Penpot](https://img.shields.io/badge/Penpot-4F46E5?style=for-the-badge&logo=penpot&logoColor=white)
+
 > Experienced in building dynamic and interactive user interfaces with **React.js, Vue.js**, and **TypeScript**. Skilled in **Tailwind CSS** and **Bootstrap** for crafting modern, responsive designs.   Additional Information: I would love to work with people who are eager to contribute to open-source projects and startups. My GitHub profile: [visualGravitySense](https://github.com/visualGravitySense).
 > 🙋‍♂️ Ask me about: Product and Graphic Design, React, Back-End Development, Open Source and GitHub 
 
