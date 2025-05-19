@@ -1,4 +1,4 @@
-![Banner Test](img/banner-test.png)
+![Banner Test](img/vs.png)
 
 
 > [!NOTE]  
