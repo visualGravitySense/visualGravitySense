@@ -7,7 +7,7 @@
 
 <div align="center">
 
-[![UX/UI Course](https://img.shields.io/badge/🎯_UX%2FUI_Course-Now_Enrolling-FF6B6B?style=for-the-badge&logoColor=white)](https://www.gammatest.net/ru/kurs_ux_ui.php)
+[![UX/UI Course](https://img.shields.io/badge/🎯_UX%2FUI_Course-Now_Enrolling-FF6B6B?style=for-the-badge&logoColor=white)](https://www.gammatest.net/en/course_ux_ui.php)
 
 **Transform Your Career in Design** | **Next Cohort Starts Soon**
 
@@ -23,7 +23,7 @@
 
 <div align="center">
 
-[![Learn More](https://img.shields.io/badge/📚_Learn_More-gammatest.net-4285F4?style=for-the-badge)](https://www.gammatest.net/ru/kurs_ux_ui.php)
+[![Learn More](https://img.shields.io/badge/📚_Learn_More-gammatest.net-4285F4?style=for-the-badge)](https://www.gammatest.net/en/course_ux_ui.php)
 
 </div>
 
