@@ -3,6 +3,32 @@
 
 # 🚀 Full-Stack Developer & Designer | Available for Freelance Projects
 
+<!-- ## 🎨 **Teaching UX/UI Design at Gamma Intelligence** -->
+
+<div align="center">
+
+[![UX/UI Course](https://img.shields.io/badge/🎯_UX%2FUI_Course-Now_Enrolling-FF6B6B?style=for-the-badge&logoColor=white)](https://www.gammatest.net/ru/kurs_ux_ui.php)
+
+**Transform Your Career in Design** | **Next Cohort Starts Soon**
+
+</div>
+
+### 🚀 **What You'll Master:**
+📱 **UX Research** • 🎨 **Visual Design** • 🖼️ **Prototyping** • 🧠 **Design Thinking** • 📊 **Usability Testing**
+
+### 🛠️ **Professional Tools:**
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=flat-square&logo=Adobe%20XD&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-F7B500?style=flat-square&logo=sketch&logoColor=black)
+
+**✨ From Beginner to Portfolio-Ready Designer in 12 Weeks**
+
+<div align="center">
+
+[![Learn More](https://img.shields.io/badge/📚_Learn_More-gammatest.net-4285F4?style=for-the-badge)](https://www.gammatest.net/ru/kurs_ux_ui.php)
+
+</div>
+
+---
+
 > **Ready to bring your digital vision to life?** I'm a seasoned full-stack developer and designer who transforms ideas into powerful, user-friendly solutions. Whether you need a modern website, mobile app, or complete digital transformation, I deliver results that drive your business forward.
 
 ## 💼 Services I Offer
