@@ -2,10 +2,16 @@
 
 
 # 🚀 Full-Stack Developer & Designer | Available for Freelance Projects
+### 📬 Contact Me Today
+[![Email](https://ziadoua.github.io/m3-Markdown-Badges/badges/Mail/mail2.svg)](mailto:dmitri.gornakov@gmail.com) [![LinkedIn](https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin1.svg)](https://www.linkedin.com/in/dmitri-gornakov) [![Telegram](https://ziadoua.github.io/m3-Markdown-Badges/badges/Telegram/telegram1.svg)](https://t.me/visual_sense/) [![Portfolio](https://ziadoua.github.io/m3-Markdown-Badges/badges/MyPortfolio/myportfolio1.svg)](https://visualgravitysense.github.io/website-portfolio-blog/)
 
-<!-- ## 🎨 **Teaching UX/UI Design at Gamma Intelligence** -->
 
-<div align="center">
+
+
+
+<div align="">
+
+## 🎨 **Teaching UX/UI Design at Gamma Intelligence** 
 
 [![UX/UI Course](https://img.shields.io/badge/🎯_UX%2FUI_Course-Now_Enrolling-FF6B6B?style=for-the-badge&logoColor=white)](https://www.gammatest.net/en/course_ux_ui.php)
 
@@ -21,7 +27,7 @@
 
 **✨ From Beginner to Portfolio-Ready Designer in 12 Weeks**
 
-<div align="center">
+<div align="">
 
 [![Learn More](https://img.shields.io/badge/📚_Learn_More-gammatest.net-4285F4?style=for-the-badge)](https://www.gammatest.net/en/course_ux_ui.php)
 
@@ -71,8 +77,7 @@ Ready to start your project? I'm available for:
 - **Ongoing maintenance** and support
 - **Consultation** and technical guidance
 
-### 📬 Contact Me Today
-[![Email](https://ziadoua.github.io/m3-Markdown-Badges/badges/Mail/mail2.svg)](mailto:dmitri.gornakov@gmail.com) [![LinkedIn](https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin1.svg)](https://www.linkedin.com/in/dmitri-gornakov) [![Telegram](https://ziadoua.github.io/m3-Markdown-Badges/badges/Telegram/telegram1.svg)](https://t.me/visual_sense/) [![Portfolio](https://ziadoua.github.io/m3-Markdown-Badges/badges/MyPortfolio/myportfolio1.svg)](https://visualgravitysense.github.io/website-portfolio-blog/)
+
 
 > **Get a free project consultation!** Send me your requirements and I'll provide a detailed proposal with timeline and pricing.
 
