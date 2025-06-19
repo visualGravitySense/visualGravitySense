@@ -15,7 +15,7 @@
 
 [![UX/UI Course](https://img.shields.io/badge/🎯_UX%2FUI_Course-Now_Enrolling-FF6B6B?style=for-the-badge&logoColor=white)](https://www.gammatest.net/en/course_ux_ui.php)
 
-**Transform Your Career in Design** | **Next Cohort Starts Soon**
+**Transform Your Career in Design** | **Next Cohort Starts Soon: 30.06.2025!**
 
 </div>
 
