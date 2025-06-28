@@ -35,6 +35,14 @@
 
 ---
 
+## Coming soon... ..
+
+### New Online course: "Your Business Digital Transformation"
+
+### SciFi Quest Game at Patrion [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/)
+
+---
+
 > **Ready to bring your digital vision to life?** I'm a seasoned full-stack developer and designer who transforms ideas into powerful, user-friendly solutions. Whether you need a modern website, mobile app, or complete digital transformation, I deliver results that drive your business forward.
 
 ## 💼 Services I Offer
