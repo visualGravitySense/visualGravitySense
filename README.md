@@ -97,6 +97,11 @@ While you're here, check out my open-source contributions:
 
 📚 **[GitHub Mastery Guide](https://github.com/visualGravitySense/GitHub-Mastery-Guide)** - Complete guide to GitHub profile optimization, achievements, and developer branding
 
+Coming soon:
+
+> Obsidian Mastery Guide
+> LinkedIn Mastery Guide
+
 🛠 **Open Source Projects** - Explore my repositories to see code quality and development practices
 
 ---
