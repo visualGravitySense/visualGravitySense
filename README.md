@@ -99,7 +99,7 @@ While you're here, check out my open-source contributions:
 
 Coming soon:
 
-> Obsidian Mastery Guide
+> Obsidian Mastery Guide <br/>
 > LinkedIn Mastery Guide
 
 🛠 **Open Source Projects** - Explore my repositories to see code quality and development practices
