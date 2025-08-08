@@ -3,7 +3,7 @@
 
 # 🚀 Full-Stack Developer & Designer | Available for Freelance Projects
 ### 📬 Contact Me Today
-[![Email](https://ziadoua.github.io/m3-Markdown-Badges/badges/Mail/mail2.svg)](mailto:dmitri.gornakov@gmail.com) [![LinkedIn](https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin1.svg)](https://www.linkedin.com/in/dmitri-gornakov) [![Telegram](https://ziadoua.github.io/m3-Markdown-Badges/badges/Telegram/telegram1.svg)](https://t.me/visual_sense/) [![Portfolio](https://ziadoua.github.io/m3-Markdown-Badges/badges/MyPortfolio/myportfolio1.svg)](https://visualgravitysense.github.io/website-portfolio-blog/)
+[![Email](https://ziadoua.github.io/m3-Markdown-Badges/badges/Mail/mail2.svg)](mailto:dmitri.gornakov@gmail.com) [![LinkedIn](https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin1.svg)](https://www.linkedin.com/in/dmitri-gornakov) [![Telegram](https://ziadoua.github.io/m3-Markdown-Badges/badges/Telegram/telegram1.svg)](https://t.me/visual_sense/) 
 
 
 
