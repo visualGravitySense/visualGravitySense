@@ -1,31 +1,15 @@
 ![Banner Test](img/vs.png)
 
 
-# 🚀 Full-Stack Developer & Designer | Available for Freelance Projects
-### 📬 Contact Me Today
-[![Email](https://ziadoua.github.io/m3-Markdown-Badges/badges/Mail/mail2.svg)](mailto:dmitri.gornakov@gmail.com) [![LinkedIn](https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin1.svg)](https://www.linkedin.com/in/dmitri-gornakov) [![Telegram](https://ziadoua.github.io/m3-Markdown-Badges/badges/Telegram/telegram1.svg)](https://t.me/visual_sense/) 
-
-
-
-
-
 <div align="">
 
-## 🎨 **Teaching UX/UI Design at Gamma Intelligence** 
+## [![UX/UI Course](https://img.shields.io/badge/🎯_UX%2FUI_Course-Now_Enrolling-FF6B6B?style=for-the-badge&logoColor=white)](https://www.gammatest.net/en/course_ux_ui.php) 🎨 **Teaching UX/UI Design at Gamma Intelligence**  
 
-[![UX/UI Course](https://img.shields.io/badge/🎯_UX%2FUI_Course-Now_Enrolling-FF6B6B?style=for-the-badge&logoColor=white)](https://www.gammatest.net/en/course_ux_ui.php)
-
-**Transform Your Career in Design** | **Next Cohort Starts Soon: 30.06.2025!**
+**✨ From Beginner to Portfolio-Ready Designer in 12 Weeks** | **Transform Your Career in Design** | **Next Cohort Starts Soon: 15.08.2025!**
 
 </div>
 
-### 🚀 **What You'll Master:**
-📱 **UX Research** • 🎨 **Visual Design** • 🖼️ **Prototyping** • 🧠 **Design Thinking** • 📊 **Usability Testing**
-
-### 🛠️ **Professional Tools:**
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=flat-square&logo=Adobe%20XD&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-F7B500?style=flat-square&logo=sketch&logoColor=black)
-
-**✨ From Beginner to Portfolio-Ready Designer in 12 Weeks**
+### 🚀 **What You'll Master:** 📱 **UX Research** • 🎨 **Visual Design** • 🖼️ **Prototyping** • 🧠 **Design Thinking** • 📊 **Usability Testing** 🛠️ **Professional Tools:** ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=flat-square&logo=Adobe%20XD&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-F7B500?style=flat-square&logo=sketch&logoColor=black)
 
 <div align="">
 
@@ -35,41 +19,21 @@
 
 ---
 
-## Coming soon... ..
 
-### New Online Course: "Your Business Digital Transformation"
+### 📬 Contact Me.  I'm available for:
+- **Long-term partnerships** (3+ months)
+- **Ongoing maintenance** and support
+- **Consultation** and technical guidance
 
-### Sci Fi Quest Game at Patreon [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/)
+  
+[![Email](https://ziadoua.github.io/m3-Markdown-Badges/badges/Mail/mail2.svg)](mailto:dmitri.gornakov@gmail.com) [![LinkedIn](https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin1.svg)](https://www.linkedin.com/in/dmitri-gornakov) [![Telegram](https://ziadoua.github.io/m3-Markdown-Badges/badges/Telegram/telegram1.svg)](https://t.me/visual_sense/) 
 
----
-
-> **Ready to bring your digital vision to life?** I'm a seasoned full-stack developer and designer who transforms ideas into powerful, user-friendly solutions. Whether you need a modern website, mobile app, or complete digital transformation, I deliver results that drive your business forward.
 
 ## 💼 Services I Offer
 
-### 🎨 **Web Development & Design**
-- **Modern React Applications** - Fast, responsive, and SEO-optimized websites
-- **E-commerce Solutions** - Complete online stores with payment integration
-- **Custom Web Applications** - Tailored solutions for your specific business needs
-- **Website Redesign & Optimization** - Modernize your existing site for better performance
-
-### 📱 **Mobile Development**
-- **Cross-Platform Apps** (React Native, Flutter) - One codebase, multiple platforms
-- **Native iOS Development** (Swift) - Premium iOS experiences
-- **Native Android Development** (Kotlin) - High-performance Android apps
-- **App Store Deployment** - End-to-end mobile app launch
-
-### 🛠 **Technical Expertise**
+### 🎨 **Web Development & Design** 📱 **Mobile Development** 🛠 **Technical Expertise**
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-## 🎯 Why Choose Me?
-
-✅ **Fast Delivery** - Quality work delivered on time, every time  
-✅ **Modern Tech Stack** - Using the latest technologies for optimal performance  
-✅ **Client-Focused** - Your success is my priority  
-✅ **Full-Service** - From concept to deployment and beyond  
-✅ **Competitive Rates** - Professional quality at fair prices  
-✅ **Ongoing Support** - I'm here for you after project completion  
 
 ## 📈 Recent Success Stories
 
@@ -77,17 +41,18 @@
 📱 **Task Management System** - Developed an integrated productivity tool combining Obsidian and Telegram for seamless workflow management  
 🎭 **AI-Powered Mood Analyzer** - Created an innovative application that analyzes user emotions and suggests personalized content  
 
-## 📞 Let's Work Together
-
-Ready to start your project? I'm available for:
-- **Short-term projects** (1-4 weeks)
-- **Long-term partnerships** (3+ months)
-- **Ongoing maintenance** and support
-- **Consultation** and technical guidance
 
 
 
-> **Get a free project consultation!** Send me your requirements and I'll provide a detailed proposal with timeline and pricing.
+
+## Coming soon... ..
+
+### New Online platform for Courses: Start Crowd Funding Campaign in September!
+
+### Sci Fi Quest Game at Patreon [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/)
+
+
+
 
 ---
 
@@ -102,7 +67,6 @@ Coming soon:
 > Obsidian Mastery Guide <br/>
 > LinkedIn Mastery Guide
 
-🛠 **Open Source Projects** - Explore my repositories to see code quality and development practices
 
 ---
 
