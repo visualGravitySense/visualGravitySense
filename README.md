@@ -12,6 +12,7 @@
 Figma • Adobe Creative Suite • Framer • Principle • React Design Tokens
 
 ## 📱 Recent Projects
+Crypto Community Analytics Dashboard [Crypto-Dashboard](https://www.behance.net/gallery/211871981/Crypto-Dashboard) <br>
 Driving School Website [https://viktorijaautokool.ee/](https://viktorijaautokool.ee/) <br>
 Music Artist Website [https://madismuul.com/](https://madismuul.com/)
 
