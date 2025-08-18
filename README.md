@@ -1,22 +1,19 @@
 ![Banner Test](img/vs.png)
 
-# 👋 Visual Gravity Sense - UI/UX Design Studio
+# 👋 Visual Gravity Sense - Web Development Studio
 
 ## 🎨 What We Do
-- UI/UX Design for SaaS & Web Applications
-- Mobile App Design & Prototyping  
+- Development and Design for SaaS & Web Applications
+- Mobile App Design & Development
 - Design Systems & Brand Identity
-- Developer-Friendly Design Handoffs
 
-## 🔧 Tools & Technologies
-Figma • Adobe Creative Suite • Framer • Principle • React Design Tokens
 
 ## 📱 Recent Projects
 Crypto Community Analytics Dashboard [Crypto-Dashboard](https://www.behance.net/gallery/211871981/Crypto-Dashboard) <br>
 Driving School Website [https://viktorijaautokool.ee/](https://viktorijaautokool.ee/) <br>
 Music Artist Website [https://madismuul.com/](https://madismuul.com/)
 
-### Portfolio Works:
+### Design Portfolio Works:
 [Bechance-1](https://www.behance.net/gorna) <br>
 [Bechance-2](https://www.behance.net/digo_agency)
 
