@@ -1,28 +1,6 @@
 ![Banner Test](img/vs.png)
 
-# 👋 Visual Gravity Sense - Web Development Studio
-
-## 🎨 What We Do
-- Development and Design for SaaS & Web Applications
-- Mobile App Design & Development
-- Design Systems & Brand Identity
-
-
-## 📱 Recent Projects
-Crypto Community Analytics Dashboard [Crypto-Dashboard](https://www.behance.net/gallery/211871981/Crypto-Dashboard) <br>
-Driving School Website [https://viktorijaautokool.ee/](https://viktorijaautokool.ee/) <br>
-Music Artist Website [https://madismuul.com/](https://madismuul.com/)
-
-### Design Portfolio Works:
-[Bechance-1](https://www.behance.net/gorna) <br>
-[Bechance-2](https://www.behance.net/digo_agency)
-
-
-### 📬 Contact Me.  I'm available for:
-- **Long-term partnerships** (3+ months)
-- **Ongoing maintenance** and support
-- **Consultation** and technical guidance
-
+### 📬 Contact Me
   
 [![Email](https://ziadoua.github.io/m3-Markdown-Badges/badges/Mail/mail2.svg)](mailto:dmitri.gornakov@gmail.com) [![LinkedIn](https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin1.svg)](https://www.linkedin.com/in/dmitri-gornakov) [![Telegram](https://ziadoua.github.io/m3-Markdown-Badges/badges/Telegram/telegram1.svg)](https://t.me/visual_sense/) 
 
