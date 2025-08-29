@@ -9,6 +9,9 @@
 
 ## 🎨 **Teaching UX/UI Design at Gamma Intelligence**  
 
+Use cases in my portfolios : [https://www.behance.net/gallery/233265529/Tutorial-Class-Advanced-UXUI-techniques-for-Bolteu](url)
+![banner_UI](img/ux.png)
+
 #### [![UX/UI Course](https://img.shields.io/badge/🎯_UX%2FUI_Course-Now_Enrolling-FF6B6B?style=for-the-badge&logoColor=white)](https://www.gammatest.net/en/course_ux_ui.php) 
 
 **✨ From Beginner to Portfolio-Ready Designer in 12 Weeks** | **Transform Your Career in Design** | **Next Cohort Starts Soon: 15.08.2025!**
