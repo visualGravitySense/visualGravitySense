@@ -15,7 +15,7 @@ Use cases in my portfolios : [![Behance](https://img.shields.io/badge/Behance-17
 
 
 
-**✨ From Beginner to Portfolio-Ready Designer in 12 Weeks** | **Transform Your Career in Design** | **Next Cohort Starts Soon: 15.08.2025!**
+**✨ From Beginner to Portfolio-Ready Designer in 12 Weeks** | **Transform Your Career in Design** | **Next Cohort Starts Soon: 15.09.2025!**
 
 </div>
 
