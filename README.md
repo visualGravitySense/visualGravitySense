@@ -9,9 +9,7 @@
 
 ## 🎨 **Teaching UX/UI Design at Gamma Intelligence**   | [![UX/UI Course](https://img.shields.io/badge/🎯_UX%2FUI_Course-Now_Enrolling-FF6B6B?style=for-the-badge&logoColor=white)](https://www.gammatest.net/en/course_ux_ui.php) 
 
-Use cases in my portfolios : [![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/gallery/233265529/Tutorial-Class-Advanced-UXUI-techniques-for-Bolteu)
- 
-![banner_UI](img/ux.png)
+
 
 
 
