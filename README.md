@@ -5,7 +5,7 @@
 ```
 ╔══════════════════════════════════════════════════════════════╗
 ║                                                              ║
-║  🤖 FAQ Bot SaaS Platform - AI-Powered Educational Support  ║
+║  FAQ Bot SaaS Platform - AI-Powered Educational Support      ║
 ║                                                              ║
 ║  Transform your educational institution's support with       ║
 ║  intelligent chatbots!                                       ║
