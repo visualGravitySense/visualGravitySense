@@ -1,5 +1,24 @@
 ![Banner Test](img/vs.png)
 
+## 🚀 **BREAKING: NEW PROJECT LAUNCH!** 🚀
+
+```
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║  🤖 FAQ Bot SaaS Platform - AI-Powered Educational Support  ║
+║                                                              ║
+║  Transform your educational institution's support with       ║
+║  intelligent chatbots!                                       ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+[![🚀 Live Demo](https://img.shields.io/badge/🚀_Live_Demo-FF6B6B?style=for-the-badge&logo=rocket&logoColor=white)](https://github.com/visualGravitySense/faq-bot-saas)
+[![💻 Try Now](https://img.shields.io/badge/💻_Try_Now-4ECDC4?style=for-the-badge&logo=code&logoColor=white)](https://github.com/visualGravitySense/faq-bot-saas)
+[![⭐ Star](https://img.shields.io/github/stars/visualGravitySense/faq-bot-saas?style=for-the-badge&logo=github&logoColor=white)](https://github.com/visualGravitySense/faq-bot-saas)
+
+
+
 ### 📬 Contact Me
   
 [![Email](https://ziadoua.github.io/m3-Markdown-Badges/badges/Mail/mail2.svg)](mailto:dmitri.gornakov@gmail.com) [![LinkedIn](https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin1.svg)](https://www.linkedin.com/in/dmitri-gornakov) [![Telegram](https://ziadoua.github.io/m3-Markdown-Badges/badges/Telegram/telegram1.svg)](https://t.me/visual_sense/) 
