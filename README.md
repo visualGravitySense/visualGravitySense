@@ -1,12 +1,6 @@
 ![Banner Test](img/vs.png)
 
-# 🌌 Punk Hacker Transformation 
-## [I use this tool for all my avatars] [https://github.com/visualGravitySense/punk_hacker_transformation](https://visualgravitysense.github.io/punk_hacker_transformation/)
-Turn any photo into a neon, glitchy punk hacker avatar in seconds. 
- – it’s fast, stylish, and doesn’t require any complicated editors.
-![Made for Avatars](https://img.shields.io/badge/Used%20for-All%20My%20Avatars-blueviolet?style=for-the-badge)
-
-## 🚀 **BREAKING: NEW PROJECT LAUNCH!** 🚀
+# 🚀 **BREAKING: NEW PROJECT LAUNCH!** 🚀
 
 ```
 ╔══════════════════════════════════════════════════════════════╗
@@ -29,6 +23,14 @@ Turn any photo into a neon, glitchy punk hacker avatar in seconds.
   
 [![Email](https://ziadoua.github.io/m3-Markdown-Badges/badges/Mail/mail2.svg)](mailto:dmitri.gornakov@gmail.com) [![LinkedIn](https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin1.svg)](https://www.linkedin.com/in/dmitri-gornakov) [![Telegram](https://ziadoua.github.io/m3-Markdown-Badges/badges/Telegram/telegram1.svg)](https://t.me/visual_sense/) 
 
+
+
+
+## 🌌 Punk Hacker Transformation 
+### [I use this tool for all my avatars] [https://github.com/visualGravitySense/punk_hacker_transformation](https://visualgravitysense.github.io/punk_hacker_transformation/)
+Turn any photo into a neon, glitchy punk hacker avatar in seconds. 
+ – it’s fast, stylish, and doesn’t require any complicated editors.
+![Made for Avatars](https://img.shields.io/badge/Used%20for-All%20My%20Avatars-blueviolet?style=for-the-badge)
 
 
 ---
