@@ -1,21 +1,19 @@
-![Banner Test](img/vs.png)
+![Banner Test](img/designlytics-3.png)
 
-# 🚀 **BREAKING: NEW PROJECT LAUNCH!** 🚀
+# 🚀 New Initiative Launch!
+## I'm excited to announce the launch of my Designlytics platform - a comprehensive design analytics and optimization service!
+🌐 Visit the Platform
+www.designlytics.ee
 
-```
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║  FAQ Bot SaaS Platform - AI-Powered Educational Support      ║
-║                                                              ║
-║  Transform your educational institution's support with       ║
-║  intelligent chatbots!                                       ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
+### 📊 What is Designlytics?
+Designlytics is a cutting-edge platform dedicated to helping businesses and creators optimize their digital presence through data-driven design insights and analytics.
 
-[![🚀 Live Demo](https://img.shields.io/badge/🚀_Live_Demo-FF6B6B?style=for-the-badge&logo=rocket&logoColor=white)](https://github.com/visualGravitySense/faq-bot-saas)
-[![💻 Try Now](https://img.shields.io/badge/💻_Try_Now-4ECDC4?style=for-the-badge&logo=code&logoColor=white)](https://github.com/visualGravitySense/faq-bot-saas)
-[![⭐ Star](https://img.shields.io/github/stars/visualGravitySense/faq-bot-saas?style=for-the-badge&logo=github&logoColor=white)](https://github.com/visualGravitySense/faq-bot-saas)
+### ✨ Key Features:
+
+- Design Analytics - Track and measure the impact of your design decisions
+- Performance Metrics - Real-time insights into user engagement and behavior
+- Optimization Tools - AI-powered recommendations for design improvements
+- Visual Testing - A/B testing and multivariate analysis for design elements
 
 
 
