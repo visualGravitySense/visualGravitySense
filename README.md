@@ -39,7 +39,8 @@ Designlytics is a cutting-edge platform dedicated to helping businesses and crea
 <!-- ![Visitors](https://komarev.com/ghpvc/?username=visualGravitySense&label=visitors&color=0e75b6&style=for-the-badge) -->
 
 
-
+#### My Creative Avatrs - next generation: Expresiion Generative Art
+[https://github.com/visualGravitySense/stable-dif](https://github.com/visualGravitySense/stable-dif)
 
 
 <!--
