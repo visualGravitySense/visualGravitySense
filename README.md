@@ -1,6 +1,6 @@
 <div align="center">
 
-![Banner](img/designlytics-3.png)
+<!-- ![Banner](img/designlytics-3.png) -->
 
 # 🚀 New Initiative Launch!
 
@@ -24,7 +24,7 @@
 | :--- | :--- |
 | **📈 Design Analytics** | Track and measure the impact of your design decisions |
 | **⚡ Performance Metrics** | Real-time insights into user engagement and behavior |
-| **🤖 Optimization Tools** | AI-powered recommendations for design improvements |
+| **🤖 Optimization Tools** | Reduced infrastructure costs by 30% using AWS optimization |
 | **🧪 Visual Testing** | A/B testing and multivariate analysis for design elements |
 
 ---
@@ -89,6 +89,7 @@ flowchart TD
 
 ---
 
+<!--
 <div align="center">
 
 ### ⭐ Support My Work
@@ -106,3 +107,4 @@ flowchart TD
 **[Expression Generative Art](https://github.com/visualGravitySense/stable-dif)** — Next generation creative avatars
 
 </div>
+-->
