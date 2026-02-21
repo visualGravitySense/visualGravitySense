@@ -78,6 +78,25 @@ flowchart TD
 
 ---
 
+## 🌐 Let’s Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dmitri%20Gornakov-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dmitri-gornakov/)
+[![Email](https://img.shields.io/badge/Email-dmitri.gornakov%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dmitri.gornakov@gmail.com)
+<!--[![Telegram](https://img.shields.io/badge/Telegram-@visual__sense-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/visual_sense/)-->
+
+</div>
+
+---
+
+<div align="center">
+💼 WordPress Security • Website Optimization • Technical Audits  
+🚀 Helping businesses build secure, fast & scalable web presence
+</div>
+
+<!--
+
 ## 📬 Contact Me
 
 <div align="center">
@@ -86,7 +105,7 @@ flowchart TD
 [![Telegram](https://img.shields.io/badge/Telegram-@visual__sense-26a5e4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/visual_sense/)
 
 </div>
-
+-->
 ---
 
 <!--
