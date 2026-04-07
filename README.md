@@ -91,7 +91,6 @@ flowchart TD
 ---
 
 <div align="center">
-💼 WordPress Security • Website Optimization • Technical Audits  
 🚀 Helping businesses build secure, fast & scalable web presence
 </div>
 
