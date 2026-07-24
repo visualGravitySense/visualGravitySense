@@ -29,54 +29,6 @@
 
 ---
 
-## 🔄 Workflow
-
-```mermaid
-flowchart TD
-    A[Request / Audit Order] --> B{Data Verification}
-    B --> C[Free Site Audit]
-    C --> D{Results Analysis}
-    D -->|Problems Found| E[Create Individual Plan]
-    D -->|No Problems| Z[Recommendations and Final Report]
-    E --> F[Solutions and Implementation]
-    
-    F --> F1[SEO Optimization]
-    F --> F2[AI Chatbots]
-    F --> F3[IoT Solutions]
-    F --> F4["Conversion Optimization (UX/UI)"]
-    F --> F5[Business Automation]
-    
-    F1 --> G[Testing: A/B tests, traffic analytics]
-    F2 --> H[24/7 Automated Support]
-    F3 --> I[Process Improvement / Time Savings]
-    F4 --> J[Conversion Rate Growth]
-    F5 --> K[CRM Integration and Task Automation]
-
-    G --> L[Improvement Report]
-    H --> L
-    I --> L
-    J --> L
-    K --> L
-
-    L --> M[Results Measurement]
-    M --> N{Results}
-    N --> O[Success: + KPI, traffic and sales growth]
-    N --> P[Additional Improvements / Iterations]
-
-    style A fill:#e1f5fe,stroke:#01579b,stroke-width:2px
-    style B fill:#fff3e0,stroke:#e65100
-    style C fill:#fff3e0,stroke:#e65100
-    style D fill:#fff3e0,stroke:#e65100
-    style E fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px
-    style F fill:#f3e5f5,stroke:#7b1fa2
-    style L fill:#e8f5e9,stroke:#2e7d32
-    style M fill:#e8f5e9,stroke:#2e7d32
-    style N fill:#e8f5e9,stroke:#2e7d32
-    style O fill:#c8e6c9,stroke:#1b5e20,stroke-width:2px
-    style Z fill:#e8f5e9,stroke:#2e7d32
-```
-
----
 
 ## 🌐 Let’s Connect
 
