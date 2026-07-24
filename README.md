@@ -35,8 +35,8 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Dmitri%20Gornakov-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dmitri-gornakov/)
-[![Email](https://img.shields.io/badge/Email-dmitri.gornakov%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dmitri.gornakov@gmail.com)
-<!--[![Telegram](https://img.shields.io/badge/Telegram-@visual__sense-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/visual_sense/)-->
+[![Email](https://img.shields.io/badge/Email-dmitri.gornakov%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:steamdmitri761@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-@visual__sense-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/visual_sense/)
 
 </div>
 
