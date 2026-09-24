@@ -2,6 +2,10 @@
 
 <!-- ![Banner](img/designlytics-3.png) -->
 
+![Banner](img/visual-gravity-sense.jpg)
+
+
+
 # 🚀 New Initiative Launch!
 
 ### *Data-driven design insights for your digital presence*
@@ -69,6 +73,9 @@
 <a href="https://buymeacoffee.com/visualgravitysense" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50" width="180">
 </a>
+
+
+
 
 ---
 
